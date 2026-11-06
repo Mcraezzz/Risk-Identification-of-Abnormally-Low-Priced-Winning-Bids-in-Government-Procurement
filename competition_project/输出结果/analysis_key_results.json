@@ -1,0 +1,16 @@
+{
+  "full_n": 7885,
+  "price_n": 7720,
+  "service_n": 5588,
+  "extend_n": 4500,
+  "price_rule_high_n": 649,
+  "price_rule_high_rate": 0.08406735751295337,
+  "service_rule_high_n": 525,
+  "service_rule_high_rate": 0.0939513242662849,
+  "model_high_n": 559,
+  "model_high_rate": 0.10003579098067288,
+  "xgb_auc": 0.9913399249914764,
+  "xgb_f1": 0.8737201365187713,
+  "shap_top5": "price_ratio_clean、supplier_risk_score、saving_rate_clean、fiscal_pressure、gdp_per_capita",
+  "extend_rule_high_rate": 0.06466666666666666
+}

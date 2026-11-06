@@ -1,0 +1,6 @@
+﻿数据集,样本量,字段数,正式用途,文件名
+全样本表,7885,55,总体描述、数据结构、采购大类分布,full_sample.csv
+价格有效样本表,7720,55,异常低价规则标签构造,price_valid_sample.csv
+服务类主样本表,5588,55,主模型、风险解释、SHAP、QCA、关系网络,service_main_sample.csv
+2025Q1扩展样本表,4500,55,稳健性检验与扩展分析,extension_2025q1_sample.csv
+主表_v2,7885,55,总备份主表与清洗记录,main_table_v2.csv

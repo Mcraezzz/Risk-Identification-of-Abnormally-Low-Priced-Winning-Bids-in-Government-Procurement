@@ -1,0 +1,2392 @@
+[
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\补充字数脚本.py",
+    "destination": "competition_project/paper_tools/补充字数脚本.py",
+    "sha256": "8C1510F29B5EF9D0255047747B7A730F07A76154ECF0639D9F1D51BC2265FE8C",
+    "bytes": 2171
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\精确删除表格脚本.py",
+    "destination": "competition_project/paper_tools/精确删除表格脚本.py",
+    "sha256": "620358764BD18DD2D313B6FDA7B52D329214B57EA051A6AC2D9E0D26861B0595",
+    "bytes": 2797
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\修改论文表格脚本.py",
+    "destination": "competition_project/paper_tools/修改论文表格脚本.py",
+    "sha256": "7CDDA1BE3FA935FE970D4D6B2001AD19072E992ABA62D02AA59A612EB18B740B",
+    "bytes": 4053
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\修改论文脚本.py",
+    "destination": "competition_project/paper_tools/修改论文脚本.py",
+    "sha256": "118439922FAB6B38AEA951AB37CE5F9A49450F6F3D1744AEE0611B1BF7FEA1FF",
+    "bytes": 8844
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\增加论文字数脚本.py",
+    "destination": "competition_project/paper_tools/增加论文字数脚本.py",
+    "sha256": "FC00E0F7BCC862C7652BB643227874A54D158F8916727CD19FF21BA39324E523",
+    "bytes": 9547
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\最终补充字数.py",
+    "destination": "competition_project/paper_tools/最终补充字数.py",
+    "sha256": "6179E586C62DFD60486671D94EAD04B744CD3B00A3F14D349E159C29B3628B3F",
+    "bytes": 2448
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\fix_output.py",
+    "destination": "competition_project/paper_tools/fix_output.py",
+    "sha256": "2B46A761FEA74E36014B23A7D01B1AC1066D4CB899958D0C5F186C20768BB4DF",
+    "bytes": 1141
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\rebuild_paper_v2.py",
+    "destination": "competition_project/paper_tools/rebuild_paper_v2.py",
+    "sha256": "D037F0A38AA91704D97882BFEC61A838936E2B49AB4F170501B73B4D1BA9A18F",
+    "bytes": 20355
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\rebuild_paper_v3.py",
+    "destination": "competition_project/paper_tools/rebuild_paper_v3.py",
+    "sha256": "E2790AEBF0B246423BDF9EDCA050940BA7D69987023116D3EC442B32C02BCE6F",
+    "bytes": 25208
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\rebuild_paper.py",
+    "destination": "competition_project/paper_tools/rebuild_paper.py",
+    "sha256": "B8096216FB5FE31820198BE2DC219BC36B69108A541D360307B5446F4B319F27",
+    "bytes": 17978
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\rename_data_files.py",
+    "destination": "competition_project/paper_tools/rename_data_files.py",
+    "sha256": "DE2D2E46CEE77B74D6F8784197537C8824E48F56AE77B905F548DB2EEF23DB81",
+    "bytes": 953
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\run_all.py",
+    "destination": "competition_project/run_all.py",
+    "sha256": "6519463C03606057B3FC5E1088FDED6FC176BF234BE57158234C5F88926518BB",
+    "bytes": 1399
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\00_common\\pipeline_core.py",
+    "destination": "competition_project/00_common/pipeline_core.py",
+    "sha256": "CF220859F877C85DE9E0850CE78EDF5D01D8748A1D95BF905AD6C86ACF85C48A",
+    "bytes": 129482,
+    "uploaded_sha256": "E4BF841A168E67DC14CD51F77225230886B2FE3E6160B1C8F539E8E9503BF1F1",
+    "adjustment": "Configurable input path; default repository data; duplicate main_table_v2 mapped to full_sample."
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\add_chinese_headers.py",
+    "destination": "competition_project/数据清洗/add_chinese_headers.py",
+    "sha256": "0386F8C04ED688A3CD28F2EE8D99786A21AC909FDFE7FA152B90551B5DE635D6",
+    "bytes": 3444
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\add_modeling_features.py",
+    "destination": "competition_project/数据清洗/add_modeling_features.py",
+    "sha256": "C5A7E76711BA9027A880AE39EEFBDD106ED872B397648CFE08514C6DFD0CED63",
+    "bytes": 9536
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\analyze_abnormal.py",
+    "destination": "competition_project/数据清洗/analyze_abnormal.py",
+    "sha256": "8EA93C0D6340AA94A17666FE6FE26B6FAFC0F9F3C64879DBC3F333A140830E00",
+    "bytes": 1182
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\analyze_abnormal2.py",
+    "destination": "competition_project/数据清洗/analyze_abnormal2.py",
+    "sha256": "329C39F946ECF881E118D1B2B9DF6B655B9DFD2FA5A0F4BA94674F3857421954",
+    "bytes": 2530
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\analyze_abnormal3.py",
+    "destination": "competition_project/数据清洗/analyze_abnormal3.py",
+    "sha256": "490C744E1222095DFEF2F06AE700382C540B549B5300F237550A4E41B1327B06",
+    "bytes": 2641
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\analyze_distribution.py",
+    "destination": "competition_project/数据清洗/analyze_distribution.py",
+    "sha256": "857693F6612A6F2A07F62ACDCBE62A0224532ED3EBB1CC5C03BCC848B79B607D",
+    "bytes": 1180
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\check_encoding.py",
+    "destination": "competition_project/数据清洗/check_encoding.py",
+    "sha256": "363A9385977A48E27FA15C43233BF1D6BD3E869C809C7E767981EC795F904445",
+    "bytes": 475
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\check_missing_provinces.py",
+    "destination": "competition_project/数据清洗/check_missing_provinces.py",
+    "sha256": "B774140227B2A6D83C6F319693FDB1D7BB0B82FEFCB4961C58C15DE02A401BF8",
+    "bytes": 836
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\check_price_anomalies.py",
+    "destination": "competition_project/数据清洗/check_price_anomalies.py",
+    "sha256": "CAA6ECA1375F17A7E918FD05B96F7B83D4689C0CEEF36BF5D17914ABE736E7ED",
+    "bytes": 2261
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\clean_and_merge_v2.py",
+    "destination": "competition_project/数据清洗/clean_and_merge_v2.py",
+    "sha256": "B4C6DB337FA24AD18A9E05C70FC54037AC66109CA63019EEB08E1A0AD092CE36",
+    "bytes": 44800
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\clean_and_merge.py",
+    "destination": "competition_project/数据清洗/clean_and_merge.py",
+    "sha256": "BA132BB754F568D1C02932D59CF94DFF499CBFA60AED26CCD61B1EDAC59FDA91",
+    "bytes": 13252
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\explore_4500_service.py",
+    "destination": "competition_project/数据清洗/explore_4500_service.py",
+    "sha256": "0E164FAB8B3B91AF377B2EE9089EF8B248AF0DF75CA4C6A278CF1BCFF0DAE156",
+    "bytes": 2733
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\explore_merged.py",
+    "destination": "competition_project/数据清洗/explore_merged.py",
+    "sha256": "A6943B545623110D9FE60BB7654D571F3FF1D7B04DABE635E06F3E512B73B182",
+    "bytes": 2424
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\explore_merged2.py",
+    "destination": "competition_project/数据清洗/explore_merged2.py",
+    "sha256": "3416547E79ECB63E3A1898F101979191C2CEA136C96C7DB2ABA726753B6F309E",
+    "bytes": 978
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\explore_merged3.py",
+    "destination": "competition_project/数据清洗/explore_merged3.py",
+    "sha256": "F75DCEA71CDEEC6A44CA73F4FB58D86014976CE8937501F587D55BC291837494",
+    "bytes": 2436
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\explore_service_type.py",
+    "destination": "competition_project/数据清洗/explore_service_type.py",
+    "sha256": "801D9E0EB358028F8E3DC10422D9E299FA69E8824F608FE607E8A3D566BC4B5C",
+    "bytes": 768
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\merge_awards.py",
+    "destination": "competition_project/数据清洗/merge_awards.py",
+    "sha256": "816FCBF92F7409B133874DAB53AEFD5964DF87015DC5DD1B9F865838AB071D6D",
+    "bytes": 15976
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\merge_indicators.py",
+    "destination": "competition_project/数据清洗/merge_indicators.py",
+    "sha256": "635F174518F37327F67C3E48656C35673116CA60B2FDFF35C4B5BAA8AEA30D98",
+    "bytes": 5500
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\process_contract.py",
+    "destination": "competition_project/数据清洗/process_contract.py",
+    "sha256": "603E8EBE0A8BB1AD8FD0A19F9BD29559D3C98E9BB0E980916C5D5EC4744859FB",
+    "bytes": 20182
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\rebuild_procurement_tables_from_raw.py",
+    "destination": "competition_project/数据清洗/rebuild_procurement_tables_from_raw.py",
+    "sha256": "CA49B76EAF4628098F291E9FCBF767D8718AED4EA7F4C79B1A26B23F69334477",
+    "bytes": 29543
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\split_model_versions_v2.py",
+    "destination": "competition_project/数据清洗/split_model_versions_v2.py",
+    "sha256": "64F0A86E8032FE29F76106799165E3F444A9E44F50C9A80A1AFED36172C30617",
+    "bytes": 4107
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\split_model_versions.py",
+    "destination": "competition_project/数据清洗/split_model_versions.py",
+    "sha256": "123D5261A949A22BE3AE765D82B23B06F00F85B0809ECDEDA8273ED85DF015DC",
+    "bytes": 4210
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\verify_final.py",
+    "destination": "competition_project/数据清洗/verify_final.py",
+    "sha256": "E32ECFD358B1E02AC50B380BED24FCC5B787DE8BB7C37B24DC217EA9C851F627",
+    "bytes": 1222
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\verify_modeling_features.py",
+    "destination": "competition_project/数据清洗/verify_modeling_features.py",
+    "sha256": "0EBE97D18675F13E971AAB85055C4B4530416494DB728318A80AB435BFA3C025",
+    "bytes": 1255
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\verify_output.py",
+    "destination": "competition_project/数据清洗/verify_output.py",
+    "sha256": "2CFDC976EC72A3C337AA023AC4633982F244009F559C62D08068A6A4067B7E51",
+    "bytes": 772
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\verify_output2.py",
+    "destination": "competition_project/数据清洗/verify_output2.py",
+    "sha256": "51567C21359A8693C0CEE487BBE3549F2945B972BDB12C373D131DD8800F7A73",
+    "bytes": 1890
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\verify_province_inference.py",
+    "destination": "competition_project/数据清洗/verify_province_inference.py",
+    "sha256": "DD0957D07EFDAA52B5FD859C9912436AE77C6FDE6F238D08C0BEE69AFD78B5B6",
+    "bytes": 1316
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\verify_provinces.py",
+    "destination": "competition_project/数据清洗/verify_provinces.py",
+    "sha256": "097E815D10CA1601D13C7E8BD56A204D8A5BA5501CC3D7357B69274D6782B10A",
+    "bytes": 638
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\verify_removals.py",
+    "destination": "competition_project/数据清洗/verify_removals.py",
+    "sha256": "C9D7952ACF7ECAC7310A2C9F924ECF0B6590C37182ED3B1441D59C4411883CFC",
+    "bytes": 1743
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\verify_v2.py",
+    "destination": "competition_project/数据清洗/verify_v2.py",
+    "sha256": "2799AB81AD5E15F2DB5B3ABA64B2DD66CF0A4F5513F8F54BD82BEA32AFB6BF5B",
+    "bytes": 1122
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\数据清洗\\xlsx_to_csv.py",
+    "destination": "competition_project/数据清洗/xlsx_to_csv.py",
+    "sha256": "89E904DB6E4DDAF7E7890CDBFAFC4D2E5143D9C6A6844506293F1004423E0796",
+    "bytes": 1148
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\第01章_引言\\chapter01_intro_route.py",
+    "destination": "competition_project/第01章_引言/chapter01_intro_route.py",
+    "sha256": "42FADDCA36004CE6B50AAC90CC949E62C9BD4D0DFD4C62A64E437CCAA44B5D67",
+    "bytes": 1139
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\第02章_数据来源与预处理\\chapter02_data_preprocessing.py",
+    "destination": "competition_project/第02章_数据来源与预处理/chapter02_data_preprocessing.py",
+    "sha256": "BE86866EED49D5F29F99B3F380BBEDCB6B2849C82DEC34528559C911D2307222",
+    "bytes": 2268
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\第03章_异常低价风险指标构建\\chapter03_risk_indicators.py",
+    "destination": "competition_project/第03章_异常低价风险指标构建/chapter03_risk_indicators.py",
+    "sha256": "A2FAA1A75036947EB5032AC5AA1140AF79C9A76646E098F4BD3F168B71325042",
+    "bytes": 862
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\第04章_文本特征工程与项目画像构建\\chapter04_text_features_profiles.py",
+    "destination": "competition_project/第04章_文本特征工程与项目画像构建/chapter04_text_features_profiles.py",
+    "sha256": "0990C5AAED3D196FD8FF7F90ABDC8DDFDF05489F01224A827F09DB40B4A6B42E",
+    "bytes": 3326
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\第05章_异常低价中标风险识别模型\\chapter05_anomaly_detection.py",
+    "destination": "competition_project/第05章_异常低价中标风险识别模型/chapter05_anomaly_detection.py",
+    "sha256": "BD44C3D8DB8B31819D046DAFE7328BA855971F7DF2C03F2A09886EC6014AEF43",
+    "bytes": 2484
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\第06章_风险因素解释与成因组合分析\\chapter06_explainability_qca.py",
+    "destination": "competition_project/第06章_风险因素解释与成因组合分析/chapter06_explainability_qca.py",
+    "sha256": "E1C8B4FA79BDF30ED5E4C17BB17E0DF30636820140CE877D4FB06168B3AA583C",
+    "bytes": 1521
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\第07章_采购关系网络与风险聚集分析\\chapter07_network_analysis.py",
+    "destination": "competition_project/第07章_采购关系网络与风险聚集分析/chapter07_network_analysis.py",
+    "sha256": "4949328A38C5DA9B6ABB6B5D32C2B28763A2E73F0315AEA7DDD53CDB0759D976",
+    "bytes": 1834
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\第08章_稳健性检验与扩展分析\\chapter08_robustness.py",
+    "destination": "competition_project/第08章_稳健性检验与扩展分析/chapter08_robustness.py",
+    "sha256": "120BCC85B943EBD81E0024DC2171284E55DA40006515AF21F40AC6B84F71BD88",
+    "bytes": 1197
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\第09章_结论与政策建议\\chapter09_summary_policy.py",
+    "destination": "competition_project/第09章_结论与政策建议/chapter09_summary_policy.py",
+    "sha256": "059D35188CD5A10490B7CEC0DFCAB4FD32F56B9C50A5404B1DD836F8A425B4B2",
+    "bytes": 3918
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\论文成稿\\apply_format_requirements.py",
+    "destination": "competition_project/论文成稿/apply_format_requirements.py",
+    "sha256": "E95BEC5866B21F358411337BDE922EEDBA9766A3A326E0D5D73FADB2264E8CBE",
+    "bytes": 19628
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\论文成稿\\polish_academic_language.py",
+    "destination": "competition_project/论文成稿/polish_academic_language.py",
+    "sha256": "76C1748D032A69B691A9BA833E96C898664E27FBE62E29AC5C03FD6321AA64D4",
+    "bytes": 41880
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\论文成稿\\refresh_docx_visuals.py",
+    "destination": "competition_project/论文成稿/refresh_docx_visuals.py",
+    "sha256": "FB9EDD632C68F3516725CC14ED995DF1D3750D5DE5866AE18A56BF37586FCB45",
+    "bytes": 16229
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\论文数据分析汇总报告.md",
+    "destination": "competition_project/输出结果/论文数据分析汇总报告.md",
+    "sha256": "964EFC27FE9C8E18A5190F9BBD5EE571B1D96E2AC455FA823E84C231180AC9E0",
+    "bytes": 10455
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\analysis_key_results.json",
+    "destination": "competition_project/输出结果/analysis_key_results.json",
+    "sha256": "F47EEF969108D70EEA31BA803213169FD618EE155976DC244D3F22A603F7FC89",
+    "bytes": 539
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\literature_extraction_summary.json",
+    "destination": "competition_project/输出结果/literature_extraction_summary.json",
+    "sha256": "10D6B7C7B7A6AEFE9A95FDF056960436E45814799CAF126D1E2EFFCF25E76A96",
+    "bytes": 77042
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\paper_numeric_inputs.json",
+    "destination": "competition_project/输出结果/paper_numeric_inputs.json",
+    "sha256": "E64A530F543D0AE333A91B6FF457A33886F5BBAB993905E06CCA4747A0139594",
+    "bytes": 80405
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\run_all_stderr.log",
+    "destination": "competition_project/输出结果/run_all_stderr.log",
+    "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "bytes": 0
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\run_all_stdout.log",
+    "destination": "competition_project/输出结果/run_all_stdout.log",
+    "sha256": "D08075DC34C828A76A47D036426EDBD8BFC3CF72BE0F8AC4CC77F501748E1C98",
+    "bytes": 762
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\data\\extension_2025q1_rule_recalculated.csv",
+    "destination": "competition_project/输出结果/data/extension_2025q1_rule_recalculated.csv",
+    "sha256": "FD7DED5D539666AF1B2F85498AC59C9A948E0FE65B54FF09892FFBC6DA5920B4",
+    "bytes": 7368106
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\data\\price_valid_sample_rule_recalculated.csv",
+    "destination": "competition_project/输出结果/data/price_valid_sample_rule_recalculated.csv",
+    "sha256": "532B0BF6C7B931F63C45B26B033FB2367EE3F035BAE0B444E182AEC336DB085D",
+    "bytes": 25587310
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\data\\service_main_model_results_full.csv",
+    "destination": "competition_project/输出结果/data/service_main_model_results_full.csv",
+    "sha256": "1EF429685A6615980A96F764CECD9CC810AF7B1D13F3C9F2B64614658E0677C3",
+    "bytes": 36115575
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\data\\service_main_model_results.csv",
+    "destination": "competition_project/输出结果/data/service_main_model_results.csv",
+    "sha256": "FDBB15FF4343D6A9833884CEB241DF740162F0BDF14725F79E239F26B1289B39",
+    "bytes": 2544273
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\data\\service_main_text_features_profiles.csv",
+    "destination": "competition_project/输出结果/data/service_main_text_features_profiles.csv",
+    "sha256": "1242EA62CD234C861DEDE679B1A31A889383E5DD772B97BB709F3E60330D5CFA",
+    "bytes": 35812479
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\data\\service_tokenized_text.csv",
+    "destination": "competition_project/输出结果/data/service_tokenized_text.csv",
+    "sha256": "1F1AE94DBE507F08A3C6089C8CDAC5FA2110E7D87A55B91DF8ABB62797741F52",
+    "bytes": 11366586
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig01_research_technical_route.pdf",
+    "destination": "competition_project/输出结果/figures/Fig01_research_technical_route.pdf",
+    "sha256": "2889EAFA5A2DF9DA5FC37DB485DC428F368DD466BC1CA2EE8EB25E4DA8464969",
+    "bytes": 74737
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig01_research_technical_route.png",
+    "destination": "competition_project/输出结果/figures/Fig01_research_technical_route.png",
+    "sha256": "607C3C5AC242C7ED5D599366F64CFF842BB0F1FF147FB078110D3781AA2CB5DD",
+    "bytes": 394645
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig02_data_cleaning_flow.pdf",
+    "destination": "competition_project/输出结果/figures/Fig02_data_cleaning_flow.pdf",
+    "sha256": "51186F8C0521AF6874D749A7C8B66E2B03D3FC2EF71F2E9DD1C0AB524C1E1AEA",
+    "bytes": 25875
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig02_data_cleaning_flow.png",
+    "destination": "competition_project/输出结果/figures/Fig02_data_cleaning_flow.png",
+    "sha256": "526E3B35D171D9F74DB2F085183E24FD3BB16D3DA2AB4FDEA9E16A2E15EAEBCB",
+    "bytes": 127294
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig03_procurement_category_distribution.pdf",
+    "destination": "competition_project/输出结果/figures/Fig03_procurement_category_distribution.pdf",
+    "sha256": "734FC1ABB299D3A66E4FDBAF9EEB936FE6926A7E0369640681E17FE5BA215533",
+    "bytes": 14812
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig03_procurement_category_distribution.png",
+    "destination": "competition_project/输出结果/figures/Fig03_procurement_category_distribution.png",
+    "sha256": "71E9BC14C063C057DF67329ACC22F6EE567DD200575CEAD8549CA71A06A1514A",
+    "bytes": 142198
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig04_service_category_distribution.pdf",
+    "destination": "competition_project/输出结果/figures/Fig04_service_category_distribution.pdf",
+    "sha256": "C7CE485A41E5D2BBE83BFC1A4D954DEEBC98319B0F12A3E9B38B851C4ABE8F26",
+    "bytes": 39588
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig04_service_category_distribution.png",
+    "destination": "competition_project/输出结果/figures/Fig04_service_category_distribution.png",
+    "sha256": "F2E48066B9476D51C462AA3CAD0A3797B89B088D54EE7EB4F4B1C97374DE8616",
+    "bytes": 249679
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig05_province_distribution_top15.pdf",
+    "destination": "competition_project/输出结果/figures/Fig05_province_distribution_top15.pdf",
+    "sha256": "73F2A37DD20CB79A17BB1834787DA21F44A7F70B49B452A72D095078790941DE",
+    "bytes": 25251
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig05_province_distribution_top15.png",
+    "destination": "competition_project/输出结果/figures/Fig05_province_distribution_top15.png",
+    "sha256": "C47E916D5D9A7C3BF9B997D7A5BD8CD51207097B819296FB9E69EE6DD3EF34D2",
+    "bytes": 252609
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig06_price_ratio_histogram.pdf",
+    "destination": "competition_project/输出结果/figures/Fig06_price_ratio_histogram.pdf",
+    "sha256": "09D242A70A0BD0419E62A3AE2CCBFBF1CC8F40C44FF4BCBBB2DC07BCD981BED2",
+    "bytes": 25916
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig06_price_ratio_histogram.png",
+    "destination": "competition_project/输出结果/figures/Fig06_price_ratio_histogram.png",
+    "sha256": "B4A127D0A437A0A855DF49A46A1A83B05BF33EE92656E8926DD6F46E9F19DDBE",
+    "bytes": 194901
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig07_saving_rate_histogram.pdf",
+    "destination": "competition_project/输出结果/figures/Fig07_saving_rate_histogram.pdf",
+    "sha256": "C78A486A402C129562B88381DC96E3BC65CAF2C081DEF8CA381F0D80596CAC5B",
+    "bytes": 15107
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig07_saving_rate_histogram.png",
+    "destination": "competition_project/输出结果/figures/Fig07_saving_rate_histogram.png",
+    "sha256": "EA6D700F62DD58BB070EEEE6E55E4AAD540FA499C36645867AA433775BE1C6B0",
+    "bytes": 134443
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig08_service_price_ratio_boxplot.pdf",
+    "destination": "competition_project/输出结果/figures/Fig08_service_price_ratio_boxplot.pdf",
+    "sha256": "4FDCAC17EAAB91F3D6E15E28D83CC74CE20B2EDDD300701D3298BE74CDF567D2",
+    "bytes": 46944
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig08_service_price_ratio_boxplot.png",
+    "destination": "competition_project/输出结果/figures/Fig08_service_price_ratio_boxplot.png",
+    "sha256": "B9F5E108967C4EA9622C8A1FD1828B27EE6ED98B35ADC212965F591B0058F6F9",
+    "bytes": 367306
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig09_rule_detection_counts.pdf",
+    "destination": "competition_project/输出结果/figures/Fig09_rule_detection_counts.pdf",
+    "sha256": "0501DEDBEE6146F3A27066805B8D3A87E16042D0AF48FA304117A7D90518FDDB",
+    "bytes": 20845
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig09_rule_detection_counts.png",
+    "destination": "competition_project/输出结果/figures/Fig09_rule_detection_counts.png",
+    "sha256": "90EB5289B29405BA4897C4ED50772A4178E7255DD977C7A2A2D55F3824CD8DDE",
+    "bytes": 206410
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig10_rule_risk_level_distribution.pdf",
+    "destination": "competition_project/输出结果/figures/Fig10_rule_risk_level_distribution.pdf",
+    "sha256": "85045EC1E7EF18947EB0AC390943513F983BD9ABE460418E4A6FF016CC632B06",
+    "bytes": 12280
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig10_rule_risk_level_distribution.png",
+    "destination": "competition_project/输出结果/figures/Fig10_rule_risk_level_distribution.png",
+    "sha256": "960ACB18BB7865E44E77338E81A3C82E2A83E42C0BD6B2BE40F8A95FB1995456",
+    "bytes": 96771
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig11_overall_keyword_wordcloud.pdf",
+    "destination": "competition_project/输出结果/figures/Fig11_overall_keyword_wordcloud.pdf",
+    "sha256": "F29D3CAE20B912539660480A9799D7C9F1E190152469EE4C0FD051CA9AA04045",
+    "bytes": 1791838
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig11_overall_keyword_wordcloud.png",
+    "destination": "competition_project/输出结果/figures/Fig11_overall_keyword_wordcloud.png",
+    "sha256": "3AAED59E8EA90C779AF6E390FCE2008E8B668A41621D23590084D99ECDCE501C",
+    "bytes": 1981662
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig12_high_risk_keyword_wordcloud.pdf",
+    "destination": "competition_project/输出结果/figures/Fig12_high_risk_keyword_wordcloud.pdf",
+    "sha256": "EE6056D3B5E0F61090F5D4BE4E4E84F80684DE0A7003EF631B6432645B994D9D",
+    "bytes": 34056
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig12_high_risk_keyword_wordcloud.png",
+    "destination": "competition_project/输出结果/figures/Fig12_high_risk_keyword_wordcloud.png",
+    "sha256": "66BEF75566305DF4E2EB092C00FDF6AF48CD1AD65C0859CE36D1A843375A4CDE",
+    "bytes": 257940
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig12b_normal_keyword_wordcloud.pdf",
+    "destination": "competition_project/输出结果/figures/Fig12b_normal_keyword_wordcloud.pdf",
+    "sha256": "F9BF66F4DD03FC83A5E2C19013959BBA900F76F2456D226A4BFA062E48EC482B",
+    "bytes": 1737692
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig12b_normal_keyword_wordcloud.png",
+    "destination": "competition_project/输出结果/figures/Fig12b_normal_keyword_wordcloud.png",
+    "sha256": "B4A06C47F8E44080E171C160B6E03C48EF9A0AD0DAC30E7B30C8728951FEC4C2",
+    "bytes": 1921239
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig13_lda_topic_keywords.pdf",
+    "destination": "competition_project/输出结果/figures/Fig13_lda_topic_keywords.pdf",
+    "sha256": "3690375F64E4AF5F354CC39A80BDDB4BF4A36E4D98179865AD85BC12944AA94B",
+    "bytes": 52316
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig13_lda_topic_keywords.png",
+    "destination": "competition_project/输出结果/figures/Fig13_lda_topic_keywords.png",
+    "sha256": "5B6AAAB29492BF01B106768C12B6FE1FE54A6720E33C82A40AEA46374F20A301",
+    "bytes": 382290
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig14_topic_high_risk_rate.pdf",
+    "destination": "competition_project/输出结果/figures/Fig14_topic_high_risk_rate.pdf",
+    "sha256": "E098BEAED5F19243475E9884C070CC7574854780134B33CB74911BEE5718CBEA",
+    "bytes": 13300
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig14_topic_high_risk_rate.png",
+    "destination": "competition_project/输出结果/figures/Fig14_topic_high_risk_rate.png",
+    "sha256": "838E194F47CC4D6966FDABF23CD249D69BF545875EC276AB4C7448693781A06A",
+    "bytes": 153538
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig15_supplier_win_count_distribution.pdf",
+    "destination": "competition_project/输出结果/figures/Fig15_supplier_win_count_distribution.pdf",
+    "sha256": "5D3C39F642E3D438AC27F6530001DA7AC5C15C01DF1685D617BF8D8D12A44D21",
+    "bytes": 13720
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig15_supplier_win_count_distribution.png",
+    "destination": "competition_project/输出结果/figures/Fig15_supplier_win_count_distribution.png",
+    "sha256": "6A89B9E2A9919957D6B196F1FD93C9CA9A3794DBEDE325881E6E2FF5213009B9",
+    "bytes": 121279
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig16_anomaly_detection_flow.pdf",
+    "destination": "competition_project/输出结果/figures/Fig16_anomaly_detection_flow.pdf",
+    "sha256": "1F1F1EC381F51C3B0C5C97817ACCCEFD1F24CCC2290098A15C08BA6D0245EAAE",
+    "bytes": 23913
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig16_anomaly_detection_flow.png",
+    "destination": "competition_project/输出结果/figures/Fig16_anomaly_detection_flow.png",
+    "sha256": "CE28A40EF7AC35975107A9CFD406DBCFB8965A096E9776FBBBF15F4939DD10EC",
+    "bytes": 130054
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig17_anomaly_model_counts.pdf",
+    "destination": "competition_project/输出结果/figures/Fig17_anomaly_model_counts.pdf",
+    "sha256": "2E8CBA2A5E972B047BFD33D288A6A234A79D5A71D64CEA3B7C62D8DA7573D0DD",
+    "bytes": 20205
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig17_anomaly_model_counts.png",
+    "destination": "competition_project/输出结果/figures/Fig17_anomaly_model_counts.png",
+    "sha256": "C0C7CD6FD2DD2645C0D9A68F5E3D8377B9F58D40DB2110FF92BF9F7AAD971639",
+    "bytes": 188307
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig18_anomaly_model_venn.pdf",
+    "destination": "competition_project/输出结果/figures/Fig18_anomaly_model_venn.pdf",
+    "sha256": "A4998EB339C64B15A5C28A42915101852FB8348912A36E3D52F2D5D4C4637E24",
+    "bytes": 28513
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig18_anomaly_model_venn.png",
+    "destination": "competition_project/输出结果/figures/Fig18_anomaly_model_venn.png",
+    "sha256": "F4C71CD1ACD56F93F106DC9F048C80334C7578128BD98EC96CA24C97B237EDF1",
+    "bytes": 213350
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig19_high_risk_service_category.pdf",
+    "destination": "competition_project/输出结果/figures/Fig19_high_risk_service_category.pdf",
+    "sha256": "E0FF53EE2DD0CB59F343FF68331F9772049F658D0B2DC78F5C1D3C4A10F0A489",
+    "bytes": 45437
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig19_high_risk_service_category.png",
+    "destination": "competition_project/输出结果/figures/Fig19_high_risk_service_category.png",
+    "sha256": "EACECDCCC9CE7FA1C6289F48BEE73518DD1452EE21A1A372102D963946831287",
+    "bytes": 334786
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig20_high_risk_province.pdf",
+    "destination": "competition_project/输出结果/figures/Fig20_high_risk_province.pdf",
+    "sha256": "7FA5E1F939B2A56761176EC2E82E48F29AF2A68C90FC46BC6555CB502C1EA6D0",
+    "bytes": 26493
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig20_high_risk_province.png",
+    "destination": "competition_project/输出结果/figures/Fig20_high_risk_province.png",
+    "sha256": "9027693A8CC2678DB5666E1BD05BACD70DC3F2F8C0E32CF1A9C8EA302293D204",
+    "bytes": 282381
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig21_pca_anomaly_scatter.pdf",
+    "destination": "competition_project/输出结果/figures/Fig21_pca_anomaly_scatter.pdf",
+    "sha256": "835F71035550AE536F5ABCE86A38E099CB61E864C95398C5604D8F823CF6684E",
+    "bytes": 1065756
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig21_pca_anomaly_scatter.png",
+    "destination": "competition_project/输出结果/figures/Fig21_pca_anomaly_scatter.png",
+    "sha256": "68CCEFD34A0D5A2BFD2A2894871FFD9DA8D73C065D345220676009D7203FC302",
+    "bytes": 1147584
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig22_supervised_model_metrics.pdf",
+    "destination": "competition_project/输出结果/figures/Fig22_supervised_model_metrics.pdf",
+    "sha256": "9A9372423E0A23D362FD9610A47E4590FF778C85532B5D70E11EDA554E779CCB",
+    "bytes": 17119
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig22_supervised_model_metrics.png",
+    "destination": "competition_project/输出结果/figures/Fig22_supervised_model_metrics.png",
+    "sha256": "783035A854ED1B9B2B5024FE543269513BA04E1A1A09524D3CAE77369973262A",
+    "bytes": 112110
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig23_random_forest_importance.pdf",
+    "destination": "competition_project/输出结果/figures/Fig23_random_forest_importance.pdf",
+    "sha256": "7EC208649DF9C37CDDA147A96E0D5EC2A1CD47C420FE54894914115409C6C33B",
+    "bytes": 17908
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig23_random_forest_importance.png",
+    "destination": "competition_project/输出结果/figures/Fig23_random_forest_importance.png",
+    "sha256": "841CB52035C02075EA456E3DA43AC50DD9E895961BBCD13A09D507D647C0332E",
+    "bytes": 264262
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig24_xgboost_importance.pdf",
+    "destination": "competition_project/输出结果/figures/Fig24_xgboost_importance.pdf",
+    "sha256": "4A81C5F26C3DE4F6769507A6F7E4952C42968FF943FDF5F1E3FC50379DEF1C35",
+    "bytes": 30779
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig24_xgboost_importance.png",
+    "destination": "competition_project/输出结果/figures/Fig24_xgboost_importance.png",
+    "sha256": "CC6E5D17E9A76DA03AB6E8739CA0482641E5B0C744C9EAEAA1B760F559F0A367",
+    "bytes": 313660
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig25_shap_summary.pdf",
+    "destination": "competition_project/输出结果/figures/Fig25_shap_summary.pdf",
+    "sha256": "294EE1B7C412471FA895B98629F6601F3B8624D88D537BEFF388280CCD2244A7",
+    "bytes": 282359
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig25_shap_summary.png",
+    "destination": "competition_project/输出结果/figures/Fig25_shap_summary.png",
+    "sha256": "368A488E834CBE7B368F99A444DACAE8C39A2F2D7323709D90B5A25805463370",
+    "bytes": 682115
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig26_shap_dependence_top4.pdf",
+    "destination": "competition_project/输出结果/figures/Fig26_shap_dependence_top4.pdf",
+    "sha256": "9E77E3EDB3A5AD5C4C1108550F3514368FB737E526BF62ACD630D272547ABC6A",
+    "bytes": 90346
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig26_shap_dependence_top4.png",
+    "destination": "competition_project/输出结果/figures/Fig26_shap_dependence_top4.png",
+    "sha256": "64C7A3EDD07F6C53EFDE516DC75C108E39765301F13ADF225E4FE41191B02016",
+    "bytes": 756301
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig27_qca_causal_paths.pdf",
+    "destination": "competition_project/输出结果/figures/Fig27_qca_causal_paths.pdf",
+    "sha256": "F9427A3D32D4952EE709B567A7CC18F5C3558D10E17C353B2DE528C51CF1F831",
+    "bytes": 34900
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig27_qca_causal_paths.png",
+    "destination": "competition_project/输出结果/figures/Fig27_qca_causal_paths.png",
+    "sha256": "FB5C67E5E9667D791C63D3108803C84BCB342B4683D309067E2C91C75CF0B795",
+    "bytes": 195070
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig28_procurement_relation_network.pdf",
+    "destination": "competition_project/输出结果/figures/Fig28_procurement_relation_network.pdf",
+    "sha256": "A3407D32BA5298A57E89562FA297FE98C2FE1897BABEF1F3CDC31461C8FABF7A",
+    "bytes": 68227
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig28_procurement_relation_network.png",
+    "destination": "competition_project/输出结果/figures/Fig28_procurement_relation_network.png",
+    "sha256": "6159103494E3A4818096F94143219366FCCD69EB0353485E5AED5626022C7C5C",
+    "bytes": 628183
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig29_high_risk_supplier_buyer_network.pdf",
+    "destination": "competition_project/输出结果/figures/Fig29_high_risk_supplier_buyer_network.pdf",
+    "sha256": "8BCEEEAEE04C10747377C31E5EEF26F740154D6BADF25CAC24F4DDBFC20FAFB9",
+    "bytes": 80960
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig29_high_risk_supplier_buyer_network.png",
+    "destination": "competition_project/输出结果/figures/Fig29_high_risk_supplier_buyer_network.png",
+    "sha256": "6ED26B6148C991D853DCC758B734CCA42199F2161B23F56F32A5A58989FA0D7B",
+    "bytes": 724219
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig30_supplier_centrality_top20.pdf",
+    "destination": "competition_project/输出结果/figures/Fig30_supplier_centrality_top20.pdf",
+    "sha256": "657B87899288149D7B4203AD8FF20D1E72BC44F3D384D25FC71498B5E2D9C26C",
+    "bytes": 65512
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig30_supplier_centrality_top20.png",
+    "destination": "competition_project/输出结果/figures/Fig30_supplier_centrality_top20.png",
+    "sha256": "6A3FD9758854F322CBF9CD94650DA6C8015831B7511BABC69410321BC003C3A8",
+    "bytes": 543118
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig31_buyer_risk_rate_top20.pdf",
+    "destination": "competition_project/输出结果/figures/Fig31_buyer_risk_rate_top20.pdf",
+    "sha256": "63E3A4D32C7AA4EB4221B72FF9EBDDEAF3555C25517DED59EBC95B1A3371353D",
+    "bytes": 73845
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig31_buyer_risk_rate_top20.png",
+    "destination": "competition_project/输出结果/figures/Fig31_buyer_risk_rate_top20.png",
+    "sha256": "CA65491E9510029DFD9655F1B32BEEDE4D6B251C6EC16A8AC1A008CAC5A853C7",
+    "bytes": 526998
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig32_risk_community_network.pdf",
+    "destination": "competition_project/输出结果/figures/Fig32_risk_community_network.pdf",
+    "sha256": "9EFC4E8C074BA873C5EAE50A0DF5F707F8E13ECC01E519CFC3F6B14FD3B5A4F9",
+    "bytes": 39896
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig32_risk_community_network.png",
+    "destination": "competition_project/输出结果/figures/Fig32_risk_community_network.png",
+    "sha256": "A2D2A029A9FD3CF14A0E9BB79B87348C9DE8010B66701CC90E68E6BA5A99DEB9",
+    "bytes": 246263
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig33_main_vs_extension_risk_rate.pdf",
+    "destination": "competition_project/输出结果/figures/Fig33_main_vs_extension_risk_rate.pdf",
+    "sha256": "F48871D5AA2052548744962135C4F66253134A03F65FED4FA23139423A3D5572",
+    "bytes": 16085
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig33_main_vs_extension_risk_rate.png",
+    "destination": "competition_project/输出结果/figures/Fig33_main_vs_extension_risk_rate.png",
+    "sha256": "1BEC6752540765D5843B786C16F64AC81FFA4CADC88442DA99C25FA0D8CDDFF1",
+    "bytes": 117991
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig34_category_risk_rate_comparison.pdf",
+    "destination": "competition_project/输出结果/figures/Fig34_category_risk_rate_comparison.pdf",
+    "sha256": "949F995332EB462C1FC5A0486D49EE89DBA867A873A0A8B25B59980932F550CD",
+    "bytes": 22919
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig34_category_risk_rate_comparison.png",
+    "destination": "competition_project/输出结果/figures/Fig34_category_risk_rate_comparison.png",
+    "sha256": "73B436A3E2EF06CBA255F5293FB0A17DBBBB7C8DCE9D11DD80273A5F384848DD",
+    "bytes": 235729
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig35_threshold_sensitivity.pdf",
+    "destination": "competition_project/输出结果/figures/Fig35_threshold_sensitivity.pdf",
+    "sha256": "C8BF44CBE4145435E2DBE5E6AB47CC52A8421BE6D18B3A444E365A62C9388E0F",
+    "bytes": 22347
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig35_threshold_sensitivity.png",
+    "destination": "competition_project/输出结果/figures/Fig35_threshold_sensitivity.png",
+    "sha256": "0D78F533A1211881F4A26E68691D6CAE80E2AFC42DB4EF72757AB30BA6ED2986",
+    "bytes": 230411
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig36_extension_high_risk_service_distribution.pdf",
+    "destination": "competition_project/输出结果/figures/Fig36_extension_high_risk_service_distribution.pdf",
+    "sha256": "4939DA119057F04AE5BE7BE07A5E49D75825A67D3F051E3DC48F6C56DE759756",
+    "bytes": 37105
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig36_extension_high_risk_service_distribution.png",
+    "destination": "competition_project/输出结果/figures/Fig36_extension_high_risk_service_distribution.png",
+    "sha256": "BEDEAF68594B96EB8E6301610EDC357979F2C9834503930724BDD36AB3358B29",
+    "bytes": 216552
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig37_regulatory_closed_loop.pdf",
+    "destination": "competition_project/输出结果/figures/Fig37_regulatory_closed_loop.pdf",
+    "sha256": "7EF9890EAF6656FA31BE3DA143351A0B4CC42CE0E7BBDAF3F65901FD3757AEA7",
+    "bytes": 23565
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\Fig37_regulatory_closed_loop.png",
+    "destination": "competition_project/输出结果/figures/Fig37_regulatory_closed_loop.png",
+    "sha256": "3D4745DB3D0D9CE96C92915F0BC18B1CE3D5F618BBE7FD720514F4D7F629177E",
+    "bytes": 111709
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\docx_without_embedded_titles\\Fig31_from_Fig32_risk_community_network.png",
+    "destination": "competition_project/输出结果/figures/docx_without_embedded_titles/Fig31_from_Fig32_risk_community_network.png",
+    "sha256": "5BD5A1CC9A8A026430E0EA987A563D2B7638196EB9B1DD86457A3544DE90591B",
+    "bytes": 198314
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\docx_without_embedded_titles\\Fig32_from_Fig33_main_vs_extension_risk_rate.png",
+    "destination": "competition_project/输出结果/figures/docx_without_embedded_titles/Fig32_from_Fig33_main_vs_extension_risk_rate.png",
+    "sha256": "9C06EE39FBA531102EB1BD3A40036FA606156497B3641AE9847A9D86B4DF798C",
+    "bytes": 98568
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\docx_without_embedded_titles\\Fig33_from_Fig34_category_risk_rate_comparison.png",
+    "destination": "competition_project/输出结果/figures/docx_without_embedded_titles/Fig33_from_Fig34_category_risk_rate_comparison.png",
+    "sha256": "D21A5EF9080B1A6DF0910524B8489BD68915F0DDFC4140009B270355699D66DD",
+    "bytes": 142872
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\docx_without_embedded_titles\\Fig34_from_Fig35_threshold_sensitivity.png",
+    "destination": "competition_project/输出结果/figures/docx_without_embedded_titles/Fig34_from_Fig35_threshold_sensitivity.png",
+    "sha256": "D0D89D8C4C9960FF287CCB991493DE1A92D6470E8E260106AC6AAFADA409FED1",
+    "bytes": 212711
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\docx_without_embedded_titles\\Fig35_from_Fig36_extension_high_risk_service_distribution.png",
+    "destination": "competition_project/输出结果/figures/docx_without_embedded_titles/Fig35_from_Fig36_extension_high_risk_service_distribution.png",
+    "sha256": "9A724C3EAE2BB3286491BDB0B867A2EDDD4FFB12313C0D47CEBBCB1B40D2912E",
+    "bytes": 189557
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\docx_without_embedded_titles\\Fig36_from_Fig37_regulatory_closed_loop.png",
+    "destination": "competition_project/输出结果/figures/docx_without_embedded_titles/Fig36_from_Fig37_regulatory_closed_loop.png",
+    "sha256": "57234D5A1AA3BF2809F000E216AC8F955F3664CA5FC92978233B87E5A987049D",
+    "bytes": 99443
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\formulas\\Formula01.png",
+    "destination": "competition_project/输出结果/figures/formulas/Formula01.png",
+    "sha256": "1418C323295B970C637D8E9A99DFFEF550528ACCE00803C9F84C040C3168DB6C",
+    "bytes": 18818
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\formulas\\Formula02.png",
+    "destination": "competition_project/输出结果/figures/formulas/Formula02.png",
+    "sha256": "210D2A174C75AFE2B555F582FF3C183200F4DEFEE68AA1CBA5CF5D88A9DDCCB9",
+    "bytes": 33664
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\formulas\\Formula03.png",
+    "destination": "competition_project/输出结果/figures/formulas/Formula03.png",
+    "sha256": "5E365CD5A8B0C29B0E1BCB4AEF4817A35593DD5BF689185C4BDCD7399C1A0240",
+    "bytes": 25463
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\formulas\\Formula04.png",
+    "destination": "competition_project/输出结果/figures/formulas/Formula04.png",
+    "sha256": "8A1AE57167563351C5D262A334A9113214E8D3F9AA633FFDE9413F3F9FDD9E4D",
+    "bytes": 29400
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\formulas\\Formula05.png",
+    "destination": "competition_project/输出结果/figures/formulas/Formula05.png",
+    "sha256": "4BCDD0BB95E86784564209004CC6B077C972EC9B13FBF0C7A34F35A49B043D70",
+    "bytes": 25196
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures\\formulas\\Formula06.png",
+    "destination": "competition_project/输出结果/figures/formulas/Formula06.png",
+    "sha256": "21064BD920F97F155409D9BA33884C84932DD3BA882C2CD3ABDFC6C3FB130D20",
+    "bytes": 32906
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig01_research_technical_route.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig01_research_technical_route.pdf",
+    "sha256": "2889EAFA5A2DF9DA5FC37DB485DC428F368DD466BC1CA2EE8EB25E4DA8464969",
+    "bytes": 74737
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig01_research_technical_route.png",
+    "destination": "competition_project/输出结果/figures2/Fig01_research_technical_route.png",
+    "sha256": "607C3C5AC242C7ED5D599366F64CFF842BB0F1FF147FB078110D3781AA2CB5DD",
+    "bytes": 394645
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig02_data_cleaning_flow.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig02_data_cleaning_flow.pdf",
+    "sha256": "51186F8C0521AF6874D749A7C8B66E2B03D3FC2EF71F2E9DD1C0AB524C1E1AEA",
+    "bytes": 25875
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig02_data_cleaning_flow.png",
+    "destination": "competition_project/输出结果/figures2/Fig02_data_cleaning_flow.png",
+    "sha256": "526E3B35D171D9F74DB2F085183E24FD3BB16D3DA2AB4FDEA9E16A2E15EAEBCB",
+    "bytes": 127294
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig03_procurement_category_distribution.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig03_procurement_category_distribution.pdf",
+    "sha256": "734FC1ABB299D3A66E4FDBAF9EEB936FE6926A7E0369640681E17FE5BA215533",
+    "bytes": 14812
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig03_procurement_category_distribution.png",
+    "destination": "competition_project/输出结果/figures2/Fig03_procurement_category_distribution.png",
+    "sha256": "71E9BC14C063C057DF67329ACC22F6EE567DD200575CEAD8549CA71A06A1514A",
+    "bytes": 142198
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig04_service_category_distribution.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig04_service_category_distribution.pdf",
+    "sha256": "5FE31EE5E6E82A8FACB8E1BE82F9FDC2C9F2FA525BE9733DC893717C18354B33",
+    "bytes": 39588
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig04_service_category_distribution.png",
+    "destination": "competition_project/输出结果/figures2/Fig04_service_category_distribution.png",
+    "sha256": "F2E48066B9476D51C462AA3CAD0A3797B89B088D54EE7EB4F4B1C97374DE8616",
+    "bytes": 249679
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig05_province_distribution_top15.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig05_province_distribution_top15.pdf",
+    "sha256": "73F2A37DD20CB79A17BB1834787DA21F44A7F70B49B452A72D095078790941DE",
+    "bytes": 25251
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig05_province_distribution_top15.png",
+    "destination": "competition_project/输出结果/figures2/Fig05_province_distribution_top15.png",
+    "sha256": "C47E916D5D9A7C3BF9B997D7A5BD8CD51207097B819296FB9E69EE6DD3EF34D2",
+    "bytes": 252609
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig06_price_ratio_histogram.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig06_price_ratio_histogram.pdf",
+    "sha256": "09D242A70A0BD0419E62A3AE2CCBFBF1CC8F40C44FF4BCBBB2DC07BCD981BED2",
+    "bytes": 25916
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig06_price_ratio_histogram.png",
+    "destination": "competition_project/输出结果/figures2/Fig06_price_ratio_histogram.png",
+    "sha256": "B4A127D0A437A0A855DF49A46A1A83B05BF33EE92656E8926DD6F46E9F19DDBE",
+    "bytes": 194901
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig07_saving_rate_histogram.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig07_saving_rate_histogram.pdf",
+    "sha256": "C78A486A402C129562B88381DC96E3BC65CAF2C081DEF8CA381F0D80596CAC5B",
+    "bytes": 15107
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig07_saving_rate_histogram.png",
+    "destination": "competition_project/输出结果/figures2/Fig07_saving_rate_histogram.png",
+    "sha256": "EA6D700F62DD58BB070EEEE6E55E4AAD540FA499C36645867AA433775BE1C6B0",
+    "bytes": 134443
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig08_service_price_ratio_boxplot.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig08_service_price_ratio_boxplot.pdf",
+    "sha256": "4FDCAC17EAAB91F3D6E15E28D83CC74CE20B2EDDD300701D3298BE74CDF567D2",
+    "bytes": 46944
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig08_service_price_ratio_boxplot.png",
+    "destination": "competition_project/输出结果/figures2/Fig08_service_price_ratio_boxplot.png",
+    "sha256": "B9F5E108967C4EA9622C8A1FD1828B27EE6ED98B35ADC212965F591B0058F6F9",
+    "bytes": 367306
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig09_rule_detection_counts.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig09_rule_detection_counts.pdf",
+    "sha256": "0501DEDBEE6146F3A27066805B8D3A87E16042D0AF48FA304117A7D90518FDDB",
+    "bytes": 20845
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig09_rule_detection_counts.png",
+    "destination": "competition_project/输出结果/figures2/Fig09_rule_detection_counts.png",
+    "sha256": "90EB5289B29405BA4897C4ED50772A4178E7255DD977C7A2A2D55F3824CD8DDE",
+    "bytes": 206410
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig10_rule_risk_level_distribution.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig10_rule_risk_level_distribution.pdf",
+    "sha256": "85045EC1E7EF18947EB0AC390943513F983BD9ABE460418E4A6FF016CC632B06",
+    "bytes": 12280
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig10_rule_risk_level_distribution.png",
+    "destination": "competition_project/输出结果/figures2/Fig10_rule_risk_level_distribution.png",
+    "sha256": "960ACB18BB7865E44E77338E81A3C82E2A83E42C0BD6B2BE40F8A95FB1995456",
+    "bytes": 96771
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig11_overall_keyword_wordcloud.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig11_overall_keyword_wordcloud.pdf",
+    "sha256": "F29D3CAE20B912539660480A9799D7C9F1E190152469EE4C0FD051CA9AA04045",
+    "bytes": 1791838
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig11_overall_keyword_wordcloud.png",
+    "destination": "competition_project/输出结果/figures2/Fig11_overall_keyword_wordcloud.png",
+    "sha256": "3AAED59E8EA90C779AF6E390FCE2008E8B668A41621D23590084D99ECDCE501C",
+    "bytes": 1981662
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig12_high_risk_keyword_wordcloud.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig12_high_risk_keyword_wordcloud.pdf",
+    "sha256": "EE6056D3B5E0F61090F5D4BE4E4E84F80684DE0A7003EF631B6432645B994D9D",
+    "bytes": 34056
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig12_high_risk_keyword_wordcloud.png",
+    "destination": "competition_project/输出结果/figures2/Fig12_high_risk_keyword_wordcloud.png",
+    "sha256": "66BEF75566305DF4E2EB092C00FDF6AF48CD1AD65C0859CE36D1A843375A4CDE",
+    "bytes": 257940
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig12b_normal_keyword_wordcloud.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig12b_normal_keyword_wordcloud.pdf",
+    "sha256": "7A82E582B24A06EEC771BEF96FB1FB6FD5CAE88C8FB5B2AE6F789444ACE4416A",
+    "bytes": 1737692
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig12b_normal_keyword_wordcloud.png",
+    "destination": "competition_project/输出结果/figures2/Fig12b_normal_keyword_wordcloud.png",
+    "sha256": "B4A06C47F8E44080E171C160B6E03C48EF9A0AD0DAC30E7B30C8728951FEC4C2",
+    "bytes": 1921239
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig13_lda_topic_keywords.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig13_lda_topic_keywords.pdf",
+    "sha256": "3690375F64E4AF5F354CC39A80BDDB4BF4A36E4D98179865AD85BC12944AA94B",
+    "bytes": 52316
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig13_lda_topic_keywords.png",
+    "destination": "competition_project/输出结果/figures2/Fig13_lda_topic_keywords.png",
+    "sha256": "5B6AAAB29492BF01B106768C12B6FE1FE54A6720E33C82A40AEA46374F20A301",
+    "bytes": 382290
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig14_topic_high_risk_rate.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig14_topic_high_risk_rate.pdf",
+    "sha256": "E098BEAED5F19243475E9884C070CC7574854780134B33CB74911BEE5718CBEA",
+    "bytes": 13300
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig14_topic_high_risk_rate.png",
+    "destination": "competition_project/输出结果/figures2/Fig14_topic_high_risk_rate.png",
+    "sha256": "838E194F47CC4D6966FDABF23CD249D69BF545875EC276AB4C7448693781A06A",
+    "bytes": 153538
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig15_supplier_win_count_distribution.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig15_supplier_win_count_distribution.pdf",
+    "sha256": "5D3C39F642E3D438AC27F6530001DA7AC5C15C01DF1685D617BF8D8D12A44D21",
+    "bytes": 13720
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig15_supplier_win_count_distribution.png",
+    "destination": "competition_project/输出结果/figures2/Fig15_supplier_win_count_distribution.png",
+    "sha256": "6A89B9E2A9919957D6B196F1FD93C9CA9A3794DBEDE325881E6E2FF5213009B9",
+    "bytes": 121279
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig15b_supplier_low_price_quadrant.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig15b_supplier_low_price_quadrant.pdf",
+    "sha256": "3376363D998CFFE043DF1263B147CF38AC2BEC458ED77A96E6CB83993A6215DC",
+    "bytes": 650433
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig15b_supplier_low_price_quadrant.png",
+    "destination": "competition_project/输出结果/figures2/Fig15b_supplier_low_price_quadrant.png",
+    "sha256": "6957A9E9DBE880BD251B16113D8A46A406FFE3714DD7613D7E849A690597111F",
+    "bytes": 775915
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig16_anomaly_detection_flow.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig16_anomaly_detection_flow.pdf",
+    "sha256": "1F1F1EC381F51C3B0C5C97817ACCCEFD1F24CCC2290098A15C08BA6D0245EAAE",
+    "bytes": 23913
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig16_anomaly_detection_flow.png",
+    "destination": "competition_project/输出结果/figures2/Fig16_anomaly_detection_flow.png",
+    "sha256": "CE28A40EF7AC35975107A9CFD406DBCFB8965A096E9776FBBBF15F4939DD10EC",
+    "bytes": 130054
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig17_anomaly_model_counts.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig17_anomaly_model_counts.pdf",
+    "sha256": "F914FFC44E0B83DA8AA0B43E4A258AA4F57B8FB7BCE8D2760EE3692AB60A1E5B",
+    "bytes": 20205
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig17_anomaly_model_counts.png",
+    "destination": "competition_project/输出结果/figures2/Fig17_anomaly_model_counts.png",
+    "sha256": "C0C7CD6FD2DD2645C0D9A68F5E3D8377B9F58D40DB2110FF92BF9F7AAD971639",
+    "bytes": 188307
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig18_anomaly_model_venn.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig18_anomaly_model_venn.pdf",
+    "sha256": "3A395A16DAE9C671D37890B5C2447C509F59E382E9CE52BB458D67134BA92F37",
+    "bytes": 28513
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig18_anomaly_model_venn.png",
+    "destination": "competition_project/输出结果/figures2/Fig18_anomaly_model_venn.png",
+    "sha256": "F4C71CD1ACD56F93F106DC9F048C80334C7578128BD98EC96CA24C97B237EDF1",
+    "bytes": 213350
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig19_high_risk_service_category.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig19_high_risk_service_category.pdf",
+    "sha256": "23D02C8997BBA54EF4015FF6D7F5A73278DC1A66FB09E6F86224687967B68F18",
+    "bytes": 45437
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig19_high_risk_service_category.png",
+    "destination": "competition_project/输出结果/figures2/Fig19_high_risk_service_category.png",
+    "sha256": "EACECDCCC9CE7FA1C6289F48BEE73518DD1452EE21A1A372102D963946831287",
+    "bytes": 334786
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig20_high_risk_province.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig20_high_risk_province.pdf",
+    "sha256": "814A771E38B7A2D1ECD9884B66967AB0A0850AB885EED16A2C7B3B8AF09BDCB2",
+    "bytes": 26493
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig20_high_risk_province.png",
+    "destination": "competition_project/输出结果/figures2/Fig20_high_risk_province.png",
+    "sha256": "9027693A8CC2678DB5666E1BD05BACD70DC3F2F8C0E32CF1A9C8EA302293D204",
+    "bytes": 282381
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig21_pca_anomaly_scatter.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig21_pca_anomaly_scatter.pdf",
+    "sha256": "EC3ED8F33D33A68E9D6424C52FA5557FFACA6A0E5BEC073962BFBC14EF361EE9",
+    "bytes": 1065756
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig21_pca_anomaly_scatter.png",
+    "destination": "competition_project/输出结果/figures2/Fig21_pca_anomaly_scatter.png",
+    "sha256": "68CCEFD34A0D5A2BFD2A2894871FFD9DA8D73C065D345220676009D7203FC302",
+    "bytes": 1147584
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig22_supervised_model_metrics.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig22_supervised_model_metrics.pdf",
+    "sha256": "9A9372423E0A23D362FD9610A47E4590FF778C85532B5D70E11EDA554E779CCB",
+    "bytes": 17119
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig22_supervised_model_metrics.png",
+    "destination": "competition_project/输出结果/figures2/Fig22_supervised_model_metrics.png",
+    "sha256": "783035A854ED1B9B2B5024FE543269513BA04E1A1A09524D3CAE77369973262A",
+    "bytes": 112110
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig23_random_forest_importance.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig23_random_forest_importance.pdf",
+    "sha256": "7EC208649DF9C37CDDA147A96E0D5EC2A1CD47C420FE54894914115409C6C33B",
+    "bytes": 17908
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig23_random_forest_importance.png",
+    "destination": "competition_project/输出结果/figures2/Fig23_random_forest_importance.png",
+    "sha256": "841CB52035C02075EA456E3DA43AC50DD9E895961BBCD13A09D507D647C0332E",
+    "bytes": 264262
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig24_xgboost_importance.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig24_xgboost_importance.pdf",
+    "sha256": "4A81C5F26C3DE4F6769507A6F7E4952C42968FF943FDF5F1E3FC50379DEF1C35",
+    "bytes": 30779
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig24_xgboost_importance.png",
+    "destination": "competition_project/输出结果/figures2/Fig24_xgboost_importance.png",
+    "sha256": "CC6E5D17E9A76DA03AB6E8739CA0482641E5B0C744C9EAEAA1B760F559F0A367",
+    "bytes": 313660
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig25_shap_summary.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig25_shap_summary.pdf",
+    "sha256": "294EE1B7C412471FA895B98629F6601F3B8624D88D537BEFF388280CCD2244A7",
+    "bytes": 282359
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig25_shap_summary.png",
+    "destination": "competition_project/输出结果/figures2/Fig25_shap_summary.png",
+    "sha256": "368A488E834CBE7B368F99A444DACAE8C39A2F2D7323709D90B5A25805463370",
+    "bytes": 682115
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig26_shap_dependence_top4.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig26_shap_dependence_top4.pdf",
+    "sha256": "9E77E3EDB3A5AD5C4C1108550F3514368FB737E526BF62ACD630D272547ABC6A",
+    "bytes": 90346
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig26_shap_dependence_top4.png",
+    "destination": "competition_project/输出结果/figures2/Fig26_shap_dependence_top4.png",
+    "sha256": "64C7A3EDD07F6C53EFDE516DC75C108E39765301F13ADF225E4FE41191B02016",
+    "bytes": 756301
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig27_qca_causal_paths.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig27_qca_causal_paths.pdf",
+    "sha256": "5C934696B88C357AAEEB2E55D217808D3B7442B689ED0A74C4931A5D71ABB2FF",
+    "bytes": 34900
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig27_qca_causal_paths.png",
+    "destination": "competition_project/输出结果/figures2/Fig27_qca_causal_paths.png",
+    "sha256": "FB5C67E5E9667D791C63D3108803C84BCB342B4683D309067E2C91C75CF0B795",
+    "bytes": 195070
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig28_procurement_relation_network.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig28_procurement_relation_network.pdf",
+    "sha256": "A3407D32BA5298A57E89562FA297FE98C2FE1897BABEF1F3CDC31461C8FABF7A",
+    "bytes": 68227
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig28_procurement_relation_network.png",
+    "destination": "competition_project/输出结果/figures2/Fig28_procurement_relation_network.png",
+    "sha256": "6159103494E3A4818096F94143219366FCCD69EB0353485E5AED5626022C7C5C",
+    "bytes": 628183
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig29_high_risk_supplier_buyer_network.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig29_high_risk_supplier_buyer_network.pdf",
+    "sha256": "8BCEEEAEE04C10747377C31E5EEF26F740154D6BADF25CAC24F4DDBFC20FAFB9",
+    "bytes": 80960
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig29_high_risk_supplier_buyer_network.png",
+    "destination": "competition_project/输出结果/figures2/Fig29_high_risk_supplier_buyer_network.png",
+    "sha256": "6ED26B6148C991D853DCC758B734CCA42199F2161B23F56F32A5A58989FA0D7B",
+    "bytes": 724219
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig30_supplier_centrality_top20.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig30_supplier_centrality_top20.pdf",
+    "sha256": "657B87899288149D7B4203AD8FF20D1E72BC44F3D384D25FC71498B5E2D9C26C",
+    "bytes": 65512
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig30_supplier_centrality_top20.png",
+    "destination": "competition_project/输出结果/figures2/Fig30_supplier_centrality_top20.png",
+    "sha256": "6A3FD9758854F322CBF9CD94650DA6C8015831B7511BABC69410321BC003C3A8",
+    "bytes": 543118
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig31_buyer_risk_rate_top20.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig31_buyer_risk_rate_top20.pdf",
+    "sha256": "63E3A4D32C7AA4EB4221B72FF9EBDDEAF3555C25517DED59EBC95B1A3371353D",
+    "bytes": 73845
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig31_buyer_risk_rate_top20.png",
+    "destination": "competition_project/输出结果/figures2/Fig31_buyer_risk_rate_top20.png",
+    "sha256": "CA65491E9510029DFD9655F1B32BEEDE4D6B251C6EC16A8AC1A008CAC5A853C7",
+    "bytes": 526998
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig32_risk_community_network.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig32_risk_community_network.pdf",
+    "sha256": "9EFC4E8C074BA873C5EAE50A0DF5F707F8E13ECC01E519CFC3F6B14FD3B5A4F9",
+    "bytes": 39896
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig32_risk_community_network.png",
+    "destination": "competition_project/输出结果/figures2/Fig32_risk_community_network.png",
+    "sha256": "A2D2A029A9FD3CF14A0E9BB79B87348C9DE8010B66701CC90E68E6BA5A99DEB9",
+    "bytes": 246263
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig33_main_vs_extension_risk_rate.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig33_main_vs_extension_risk_rate.pdf",
+    "sha256": "F48871D5AA2052548744962135C4F66253134A03F65FED4FA23139423A3D5572",
+    "bytes": 16085
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig33_main_vs_extension_risk_rate.png",
+    "destination": "competition_project/输出结果/figures2/Fig33_main_vs_extension_risk_rate.png",
+    "sha256": "1BEC6752540765D5843B786C16F64AC81FFA4CADC88442DA99C25FA0D8CDDFF1",
+    "bytes": 117991
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig34_category_risk_rate_comparison.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig34_category_risk_rate_comparison.pdf",
+    "sha256": "949F995332EB462C1FC5A0486D49EE89DBA867A873A0A8B25B59980932F550CD",
+    "bytes": 22919
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig34_category_risk_rate_comparison.png",
+    "destination": "competition_project/输出结果/figures2/Fig34_category_risk_rate_comparison.png",
+    "sha256": "73B436A3E2EF06CBA255F5293FB0A17DBBBB7C8DCE9D11DD80273A5F384848DD",
+    "bytes": 235729
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig35_threshold_sensitivity.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig35_threshold_sensitivity.pdf",
+    "sha256": "C8BF44CBE4145435E2DBE5E6AB47CC52A8421BE6D18B3A444E365A62C9388E0F",
+    "bytes": 22347
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig35_threshold_sensitivity.png",
+    "destination": "competition_project/输出结果/figures2/Fig35_threshold_sensitivity.png",
+    "sha256": "0D78F533A1211881F4A26E68691D6CAE80E2AFC42DB4EF72757AB30BA6ED2986",
+    "bytes": 230411
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig36_extension_high_risk_service_distribution.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig36_extension_high_risk_service_distribution.pdf",
+    "sha256": "4939DA119057F04AE5BE7BE07A5E49D75825A67D3F051E3DC48F6C56DE759756",
+    "bytes": 37105
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig36_extension_high_risk_service_distribution.png",
+    "destination": "competition_project/输出结果/figures2/Fig36_extension_high_risk_service_distribution.png",
+    "sha256": "BEDEAF68594B96EB8E6301610EDC357979F2C9834503930724BDD36AB3358B29",
+    "bytes": 216552
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig37_regulatory_closed_loop.pdf",
+    "destination": "competition_project/输出结果/figures2/Fig37_regulatory_closed_loop.pdf",
+    "sha256": "7EF9890EAF6656FA31BE3DA143351A0B4CC42CE0E7BBDAF3F65901FD3757AEA7",
+    "bytes": 23565
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\figures2\\Fig37_regulatory_closed_loop.png",
+    "destination": "competition_project/输出结果/figures2/Fig37_regulatory_closed_loop.png",
+    "sha256": "3D4745DB3D0D9CE96C92915F0BC18B1CE3D5F618BBE7FD720514F4D7F629177E",
+    "bytes": 111709
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table01_data_sources.csv",
+    "destination": "competition_project/输出结果/tables/Table01_data_sources.csv",
+    "sha256": "FC4F4040F3D6879DA8978232CB65DF8B6F9C6942F469FED501BA2AC3A1BE70EA",
+    "bytes": 495
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table02_field_structure.csv",
+    "destination": "competition_project/输出结果/tables/Table02_field_structure.csv",
+    "sha256": "44766BB222510DE43F82090E9CED8573C41B3D1D96B3349B390B4D8E0A718EC1",
+    "bytes": 806
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table03_sample_split.csv",
+    "destination": "competition_project/输出结果/tables/Table03_sample_split.csv",
+    "sha256": "1040A36A654970994A863B39BE0F9FB54C5DE207E3F2055CC02E669CECB5EDA5",
+    "bytes": 296
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table04_procurement_category_distribution.csv",
+    "destination": "competition_project/输出结果/tables/Table04_procurement_category_distribution.csv",
+    "sha256": "49310FA6BC759EAF7ACA36840260DC2FEB66607927B776E39CA8210DBAD631E5",
+    "bytes": 121
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table05_low_price_indicator_definitions.csv",
+    "destination": "competition_project/输出结果/tables/Table05_low_price_indicator_definitions.csv",
+    "sha256": "81F65C770D8340D8AE36BC15B07E8373CC02EAF9DE47EF5083C582690122E2CD",
+    "bytes": 689
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table06_rule_detection_comparison.csv",
+    "destination": "competition_project/输出结果/tables/Table06_rule_detection_comparison.csv",
+    "sha256": "F7A393F473F787E0BDDE50BA34A7F242DAB5C4A22AFBDC15252A608BBB868970",
+    "bytes": 367
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table07_service_category_risk_rate.csv",
+    "destination": "competition_project/输出结果/tables/Table07_service_category_risk_rate.csv",
+    "sha256": "4F32FE9CBFA4E78910157AD39BBAD76AE46172D1D3D64908BA77843D5B7AC059",
+    "bytes": 1279
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table07b_procurement_method_risk_rate.csv",
+    "destination": "competition_project/输出结果/tables/Table07b_procurement_method_risk_rate.csv",
+    "sha256": "B2E4F554157D3BE7111CB042BC1ADFF4003F5AE45A545CA3694F15F14CADA74D",
+    "bytes": 420
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table07c_province_risk_rate.csv",
+    "destination": "competition_project/输出结果/tables/Table07c_province_risk_rate.csv",
+    "sha256": "6D2BAD3FAD81CB29B38E3B9101B3E73F7A17CDF021EBAF8703B422A11E2A557F",
+    "bytes": 1104
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table08_text_preprocessing_rules.csv",
+    "destination": "competition_project/输出结果/tables/Table08_text_preprocessing_rules.csv",
+    "sha256": "C89CA16F7C3DC7D74CE3A3A352889B34F3AA2C39DC28C55A731063CF202D4FEB",
+    "bytes": 524
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table09_lda_topic_interpretation.csv",
+    "destination": "competition_project/输出结果/tables/Table09_lda_topic_interpretation.csv",
+    "sha256": "AE66DF476C2DAA14706529E04E21AF6852B55DAE6677F756096173120E0B1619",
+    "bytes": 1084
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table10_supplier_profile_fields.csv",
+    "destination": "competition_project/输出结果/tables/Table10_supplier_profile_fields.csv",
+    "sha256": "D0202722DCA8C30337F827E2AAB3C24D0436AC3F05AF72D7D9FA864DCF17D2FA",
+    "bytes": 551
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table10b_supplier_profile_summary.csv",
+    "destination": "competition_project/输出结果/tables/Table10b_supplier_profile_summary.csv",
+    "sha256": "9F691590F30A4A1E9FF032D2FF4BDDD20A8CDAE2F6908C30A45314EE06E0BDB6",
+    "bytes": 417120
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table10c_overall_keywords.csv",
+    "destination": "competition_project/输出结果/tables/Table10c_overall_keywords.csv",
+    "sha256": "DCFF2A7B138AB5D0E955D2B2D51418652D9FB69B675EA10B34D353FF7BC7880F",
+    "bytes": 1197
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table10d_risk_vs_normal_keywords.csv",
+    "destination": "competition_project/输出结果/tables/Table10d_risk_vs_normal_keywords.csv",
+    "sha256": "70E3F5A06847628DB5FED54AB3DE3C17D89A26A54D1F32D17A02E6B9A58D5CBD",
+    "bytes": 2098
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table11_anomaly_model_parameters.csv",
+    "destination": "competition_project/输出结果/tables/Table11_anomaly_model_parameters.csv",
+    "sha256": "BCE4F2D23A7F268BE51AFD11E0D8B0A1C7A585A19E7A94C3605A2FEAD995B0B6",
+    "bytes": 468
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table12_anomaly_model_results.csv",
+    "destination": "competition_project/输出结果/tables/Table12_anomaly_model_results.csv",
+    "sha256": "76987704BA3BDC947E08CED21AD7FF22FC7F8C8AA84E3A804241A33A9DE4B2BF",
+    "bytes": 182
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table13_high_risk_descriptive_statistics.csv",
+    "destination": "competition_project/输出结果/tables/Table13_high_risk_descriptive_statistics.csv",
+    "sha256": "F77CC6C91A11C0E3C41B29B4D469252F3C6D3D7C145A28647C83B87AD57BD718",
+    "bytes": 1976
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table14_logistic_regression_results.csv",
+    "destination": "competition_project/输出结果/tables/Table14_logistic_regression_results.csv",
+    "sha256": "5DECCDD1D67DCA88F72460FA292C547D5299C1AB71BA5E95B4E7CB26D0F9CA3E",
+    "bytes": 1050
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table15_supervised_model_evaluation.csv",
+    "destination": "competition_project/输出结果/tables/Table15_supervised_model_evaluation.csv",
+    "sha256": "326AE05923B70008E6A12310F7C4A33D0FBE2C87BE640680EF4F83A9F41E83EF",
+    "bytes": 363
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table16_shap_importance.csv",
+    "destination": "competition_project/输出结果/tables/Table16_shap_importance.csv",
+    "sha256": "66A67151EAC669CB031A519BAC46617FF52EBD675C93BDAAB146336F2BA51D4C",
+    "bytes": 2152
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table16b_random_forest_importance.csv",
+    "destination": "competition_project/输出结果/tables/Table16b_random_forest_importance.csv",
+    "sha256": "9F4396037B152EFD68AEEEA8F6139650E4B96140D8621807B4DA738F640B2C53",
+    "bytes": 3111
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table16c_xgboost_importance.csv",
+    "destination": "competition_project/输出结果/tables/Table16c_xgboost_importance.csv",
+    "sha256": "014B164D9070EFF9AF8B6DBD8D5878C698BB6BECB8B1F9889DD4D61C61FAB79C",
+    "bytes": 2169
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table17_qca_causal_paths.csv",
+    "destination": "competition_project/输出结果/tables/Table17_qca_causal_paths.csv",
+    "sha256": "5B74D6FB6613EA0661367F313D0F445C6D976175EAF9CAFACE3A9D21FE7616EE",
+    "bytes": 731
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table18_network_node_edge_definitions.csv",
+    "destination": "competition_project/输出结果/tables/Table18_network_node_edge_definitions.csv",
+    "sha256": "50B6F2CFC28C86830DC3C290348037F6247A5AFB969883922B95ECE97C695DEF",
+    "bytes": 538
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table19_supplier_centrality_ranking.csv",
+    "destination": "competition_project/输出结果/tables/Table19_supplier_centrality_ranking.csv",
+    "sha256": "A25AA573550F78C1FE880693CC6F36C41419A6BBECD977B37A3BC85DDAA29BEB",
+    "bytes": 9079
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table20_buyer_risk_ranking.csv",
+    "destination": "competition_project/输出结果/tables/Table20_buyer_risk_ranking.csv",
+    "sha256": "5CCF72CFAB306EA9AF58495002DECE03404DE9F0026929C85B1705AC41116AD5",
+    "bytes": 10469
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table21_high_risk_community_features.csv",
+    "destination": "competition_project/输出结果/tables/Table21_high_risk_community_features.csv",
+    "sha256": "3F8A664C275D1AB5C904C54C1806004A2B81CEEDD0E0192705FAA3E6ED378F6D",
+    "bytes": 444287
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table22_robustness_results.csv",
+    "destination": "competition_project/输出结果/tables/Table22_robustness_results.csv",
+    "sha256": "B48DBC047A7D179A565738847C5282809EACAC762E2C7ADCC624A7A2BE6B78B8",
+    "bytes": 294
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table23_procurement_category_risk_comparison.csv",
+    "destination": "competition_project/输出结果/tables/Table23_procurement_category_risk_comparison.csv",
+    "sha256": "72A6EDAB650027887DA30548A4784F8B7F56311B1795490FAB9124F954CDDDB3",
+    "bytes": 271
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table24_threshold_sensitivity.csv",
+    "destination": "competition_project/输出结果/tables/Table24_threshold_sensitivity.csv",
+    "sha256": "7E70209C1919820242B84984B3DA8549AD15057A08BFE66F436AFD97CC8F209E",
+    "bytes": 408
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\输出结果\\tables\\Table25_policy_recommendation_evidence.csv",
+    "destination": "competition_project/输出结果/tables/Table25_policy_recommendation_evidence.csv",
+    "sha256": "E091AFCCA8A3C88B28205703724A85A99B95587EDB5C6C637109AB68D4431ABF",
+    "bytes": 634
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\论文数据分析汇总报告.md",
+    "destination": "alternate_results/论文数据分析汇总报告.md",
+    "sha256": "F75717360DBED29FF3D7AEE18288150840B3097058FDC3CBFB3ECD7C21EDF155",
+    "bytes": 9380
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\analysis_key_results.json",
+    "destination": "alternate_results/analysis_key_results.json",
+    "sha256": "4C6FF50CD79BDED399CC6E423E8A21695F8B579E311E20F2E5A611F49621ECE1",
+    "bytes": 546
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\data\\extension_2025q1_rule_recalculated.csv",
+    "destination": "alternate_results/data/extension_2025q1_rule_recalculated.csv",
+    "sha256": "FD7DED5D539666AF1B2F85498AC59C9A948E0FE65B54FF09892FFBC6DA5920B4",
+    "bytes": 7368106
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\data\\price_valid_sample_rule_recalculated.csv",
+    "destination": "alternate_results/data/price_valid_sample_rule_recalculated.csv",
+    "sha256": "532B0BF6C7B931F63C45B26B033FB2367EE3F035BAE0B444E182AEC336DB085D",
+    "bytes": 25587310
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\data\\service_main_model_results_full.csv",
+    "destination": "alternate_results/data/service_main_model_results_full.csv",
+    "sha256": "4BB610AA669DEAE17F3F5CB6E83F7BE67D3058546703769BC2AF2419902F6EAF",
+    "bytes": 34957051
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\data\\service_main_model_results.csv",
+    "destination": "alternate_results/data/service_main_model_results.csv",
+    "sha256": "19A16F9029507EEC21A93D7F8613658518A72DF002CB59C8E766F8FD38EDE71F",
+    "bytes": 2545123
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\data\\service_main_text_features_profiles.csv",
+    "destination": "alternate_results/data/service_main_text_features_profiles.csv",
+    "sha256": "BC0EA0AA3C1218385D9E279DC766C44705B282D01E909A44B038F318B25797F4",
+    "bytes": 34649416
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\data\\service_tokenized_text.csv",
+    "destination": "alternate_results/data/service_tokenized_text.csv",
+    "sha256": "CEA6E2A55010DA8310E74556146EF68CC3A4168ACBA5AE6FC1A266B470991C6B",
+    "bytes": 10209696
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig01_research_technical_route.pdf",
+    "destination": "alternate_results/figures/Fig01_research_technical_route.pdf",
+    "sha256": "E8A3792718A1BD92CCE8EA2128B1332A8D299EB8FC4424D1A64D1942DDE6757D",
+    "bytes": 77170
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig01_research_technical_route.png",
+    "destination": "alternate_results/figures/Fig01_research_technical_route.png",
+    "sha256": "125D46ED49BE906BDB873D53492D3F13D355F1B37D7C9545A573734496A322BE",
+    "bytes": 338573
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig02_data_cleaning_flow.pdf",
+    "destination": "alternate_results/figures/Fig02_data_cleaning_flow.pdf",
+    "sha256": "AA573F8DA5AF71AA263CFD841A8468C79BD8EBEDC6F49182D4F1A06B29F6EE96",
+    "bytes": 25920
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig02_data_cleaning_flow.png",
+    "destination": "alternate_results/figures/Fig02_data_cleaning_flow.png",
+    "sha256": "E1225F82E5BA8884050E1FAD5471EE8A7C9A9F96E13F0BC58A435621928BA7E8",
+    "bytes": 105761
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig03_procurement_category_distribution.pdf",
+    "destination": "alternate_results/figures/Fig03_procurement_category_distribution.pdf",
+    "sha256": "AF6FB50685699CFA97B16F6D9252D366BA2E42E22015C69F2DFD55C42DD2AC13",
+    "bytes": 20479
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig03_procurement_category_distribution.png",
+    "destination": "alternate_results/figures/Fig03_procurement_category_distribution.png",
+    "sha256": "B90A50AA941A4C6938CC213D0D60FE5ED75198D899D1761DE312199C3C819867",
+    "bytes": 158396
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig04_service_category_distribution.pdf",
+    "destination": "alternate_results/figures/Fig04_service_category_distribution.pdf",
+    "sha256": "011F2271E6A38C04D92389E8F9EC6A127D1FB246724165E4520F77FB379E1D4A",
+    "bytes": 48012
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig04_service_category_distribution.png",
+    "destination": "alternate_results/figures/Fig04_service_category_distribution.png",
+    "sha256": "217C17C70B5546DDE274B80E9D847FC1928336D8548EE6329ADFFEC960258372",
+    "bytes": 263023
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig05_province_distribution_top15.pdf",
+    "destination": "alternate_results/figures/Fig05_province_distribution_top15.pdf",
+    "sha256": "6ACAA0F87FC4317F80EBFF5455CA84F482932CA308D97B3F7B984505FC221DDD",
+    "bytes": 32121
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig05_province_distribution_top15.png",
+    "destination": "alternate_results/figures/Fig05_province_distribution_top15.png",
+    "sha256": "F04A7736823DB368A3A3314F961F696C1A1F30C3C70244266AB91C52BDF9314C",
+    "bytes": 266571
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig06_price_ratio_histogram.pdf",
+    "destination": "alternate_results/figures/Fig06_price_ratio_histogram.pdf",
+    "sha256": "02C6B236D397FBAC111623B1C8AC55BFDA3A19D6F5D458DF1104D23E714EF556",
+    "bytes": 24215
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig06_price_ratio_histogram.png",
+    "destination": "alternate_results/figures/Fig06_price_ratio_histogram.png",
+    "sha256": "7FAFD10A998539D46CE8A902E960846DD775ECB5A9CC30D491341617FFA350C4",
+    "bytes": 141868
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig07_saving_rate_histogram.pdf",
+    "destination": "alternate_results/figures/Fig07_saving_rate_histogram.pdf",
+    "sha256": "A0C1E83DFAE743BAF67CDC76AF8C1854DFAED94A87EC532489BE72FDCA8AC0EB",
+    "bytes": 20131
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig07_saving_rate_histogram.png",
+    "destination": "alternate_results/figures/Fig07_saving_rate_histogram.png",
+    "sha256": "88A7782886364D7FFA39D7A057BA48569D534A341A90EA149C97AFF3C6EB34D2",
+    "bytes": 138051
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig08_service_price_ratio_boxplot.pdf",
+    "destination": "alternate_results/figures/Fig08_service_price_ratio_boxplot.pdf",
+    "sha256": "6DF1C1D2ADA2D825B166CA946CDBB3CC58C1E21F31FB10F543565FFC6CE832DE",
+    "bytes": 53585
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig08_service_price_ratio_boxplot.png",
+    "destination": "alternate_results/figures/Fig08_service_price_ratio_boxplot.png",
+    "sha256": "EA6E13CFDB5DD9C0C70471FB6B46FC33B88C935F6725F3379EEFE75C3464C026",
+    "bytes": 478956
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig09_rule_detection_counts.pdf",
+    "destination": "alternate_results/figures/Fig09_rule_detection_counts.pdf",
+    "sha256": "F3855850863C4A2022D33ADCE45AB1CB927DA93906FDA8CCF3198406B54A434C",
+    "bytes": 29389
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig09_rule_detection_counts.png",
+    "destination": "alternate_results/figures/Fig09_rule_detection_counts.png",
+    "sha256": "0B59A961CD5E48A2E465C3FA1E0B6F052D80662BEA352A91A50D21C0110D9870",
+    "bytes": 254227
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig10_rule_risk_level_distribution.pdf",
+    "destination": "alternate_results/figures/Fig10_rule_risk_level_distribution.pdf",
+    "sha256": "A3886ACC7A9CF1434BF55698F38CD0E2C19209E80B9FA51011E1B93ECD7C52B3",
+    "bytes": 19498
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig10_rule_risk_level_distribution.png",
+    "destination": "alternate_results/figures/Fig10_rule_risk_level_distribution.png",
+    "sha256": "4D1C7403B70E3E3FB2206CB433BE0FDC7B46E2110A1DE67FFB4A130FE1B8EEF9",
+    "bytes": 109999
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig11_overall_keyword_wordcloud.pdf",
+    "destination": "alternate_results/figures/Fig11_overall_keyword_wordcloud.pdf",
+    "sha256": "B4E68FADD71957BE7C9192D43400402ADA2FD693035890F3A0E5AEEDFFE1D5D4",
+    "bytes": 1528247
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig11_overall_keyword_wordcloud.png",
+    "destination": "alternate_results/figures/Fig11_overall_keyword_wordcloud.png",
+    "sha256": "B811C91B126529ADCDCE1551805C19D5DEEA9EFE0227F3C3E482CF24CE8ED47A",
+    "bytes": 1707916
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig12_high_risk_keyword_wordcloud.pdf",
+    "destination": "alternate_results/figures/Fig12_high_risk_keyword_wordcloud.pdf",
+    "sha256": "74791135A2837E48DD03DB1E92A4A7347B6A3E3873705587963689850162A5A5",
+    "bytes": 1303774
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig12_high_risk_keyword_wordcloud.png",
+    "destination": "alternate_results/figures/Fig12_high_risk_keyword_wordcloud.png",
+    "sha256": "B7552E352EE5B6299EEC52F457ECF90A7B298E6D92D4913AB810BDBF33416E1F",
+    "bytes": 1458168
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig12b_normal_keyword_wordcloud.pdf",
+    "destination": "alternate_results/figures/Fig12b_normal_keyword_wordcloud.pdf",
+    "sha256": "18F1BDA28485F0E35E40961EFC92C7F603ED7DB79134A89495F6C7EA174CB787",
+    "bytes": 1456882
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig12b_normal_keyword_wordcloud.png",
+    "destination": "alternate_results/figures/Fig12b_normal_keyword_wordcloud.png",
+    "sha256": "6B2A111521EECFD44D5B074169925D1836BC8551026A3B856BE823B5A2193077",
+    "bytes": 1621809
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig13_lda_topic_keywords.pdf",
+    "destination": "alternate_results/figures/Fig13_lda_topic_keywords.pdf",
+    "sha256": "B729E3C5835C5A2E040F496E3B2DD54840589851D1F296546AE33CF717E0B7EC",
+    "bytes": 71890
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig13_lda_topic_keywords.png",
+    "destination": "alternate_results/figures/Fig13_lda_topic_keywords.png",
+    "sha256": "21882B9EDE458CB469C75752A86E2ED7CDF5830B3321350768A9168E138FA3F1",
+    "bytes": 426834
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig14_topic_high_risk_rate.pdf",
+    "destination": "alternate_results/figures/Fig14_topic_high_risk_rate.pdf",
+    "sha256": "786DF806A8772BCDD58CCC036E73F252478715A08AB9BE63DAC5071E2DEFBC61",
+    "bytes": 21724
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig14_topic_high_risk_rate.png",
+    "destination": "alternate_results/figures/Fig14_topic_high_risk_rate.png",
+    "sha256": "D2E655AFCFD8850A8FFCBE26BB0D1A685CB452BA22631022A8F30DF0B0FD41B0",
+    "bytes": 164367
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig15_supplier_win_count_distribution.pdf",
+    "destination": "alternate_results/figures/Fig15_supplier_win_count_distribution.pdf",
+    "sha256": "15020EB739D44B416E4A54D82844C9649DD36F9B30AFCED6773BB5D2E869C005",
+    "bytes": 21112
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig15_supplier_win_count_distribution.png",
+    "destination": "alternate_results/figures/Fig15_supplier_win_count_distribution.png",
+    "sha256": "673B4861FBC59A83FC64C4722CF5E27B09424F2CA647A685AA329DA8E3E11803",
+    "bytes": 137786
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig16_anomaly_detection_flow.pdf",
+    "destination": "alternate_results/figures/Fig16_anomaly_detection_flow.pdf",
+    "sha256": "9DD5AD059642C25C13F63778BABDB25A223A68778AB171D08F212A66297F3AAC",
+    "bytes": 26533
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig16_anomaly_detection_flow.png",
+    "destination": "alternate_results/figures/Fig16_anomaly_detection_flow.png",
+    "sha256": "C96FB78A4E44DB942A79C5BFA1526481562996DF1541426A44B9834DD17C42CA",
+    "bytes": 107531
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig17_anomaly_model_counts.pdf",
+    "destination": "alternate_results/figures/Fig17_anomaly_model_counts.pdf",
+    "sha256": "0C1996AB19EE29393DCAE75DC655D1DB4E5C0BEA53DB635CF4B48BA36BEAC602",
+    "bytes": 29418
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig17_anomaly_model_counts.png",
+    "destination": "alternate_results/figures/Fig17_anomaly_model_counts.png",
+    "sha256": "7EF5ABF9433577021C7703D93D17E931EA750E9B31675D9EC95799DC1A891D18",
+    "bytes": 215716
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig18_anomaly_model_venn.pdf",
+    "destination": "alternate_results/figures/Fig18_anomaly_model_venn.pdf",
+    "sha256": "60FC32138EE66B987B6B60A62154358A2B2C22D31E04AF9D1439F34C0608D2F2",
+    "bytes": 22847
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig18_anomaly_model_venn.png",
+    "destination": "alternate_results/figures/Fig18_anomaly_model_venn.png",
+    "sha256": "4EA656A1460FA34EDAA9D2F6E37FB9AF7133BC833B5C3EE38BBF57FF60327496",
+    "bytes": 262559
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig19_high_risk_service_category.pdf",
+    "destination": "alternate_results/figures/Fig19_high_risk_service_category.pdf",
+    "sha256": "23F98A0912278FAEAA3F900920E7B39CFAE938FC6A70149A951E181B4EF7A44E",
+    "bytes": 42025
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig19_high_risk_service_category.png",
+    "destination": "alternate_results/figures/Fig19_high_risk_service_category.png",
+    "sha256": "7A99256A34551BA5AA99A99AE86B934EADF387C41B57E12C894170F7781E4310",
+    "bytes": 219150
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig20_high_risk_province.pdf",
+    "destination": "alternate_results/figures/Fig20_high_risk_province.pdf",
+    "sha256": "25C85875D890A876D89B09BBC38D97C06FA1959A6D981DCDA8FE63B8576FE02F",
+    "bytes": 35826
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig20_high_risk_province.png",
+    "destination": "alternate_results/figures/Fig20_high_risk_province.png",
+    "sha256": "3BB49A50CE27FAB87B0675BC2390BA25DFB747CC00FE098376E8ABCB81E58007",
+    "bytes": 262111
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig21_pca_anomaly_scatter.pdf",
+    "destination": "alternate_results/figures/Fig21_pca_anomaly_scatter.pdf",
+    "sha256": "3D80528BFFC81066545823874ABEEC9B7ADC6062AB57B5BBEB51F068AE01685E",
+    "bytes": 1081241
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig21_pca_anomaly_scatter.png",
+    "destination": "alternate_results/figures/Fig21_pca_anomaly_scatter.png",
+    "sha256": "D73CC54234317AC1881695C7C44D87BA5E0B6788F3ACE6BC24803B2FD718A9B8",
+    "bytes": 1015412
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig22_supervised_model_metrics.pdf",
+    "destination": "alternate_results/figures/Fig22_supervised_model_metrics.pdf",
+    "sha256": "0A511362C135191E795FB9FE6846771F4A0D8A1577022BF632B6FFA22F46A51F",
+    "bytes": 36969
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig22_supervised_model_metrics.png",
+    "destination": "alternate_results/figures/Fig22_supervised_model_metrics.png",
+    "sha256": "610BFB9AC8264CDBA42AC00D0B3922B537C609565C7EF2961C1FD8680491DE37",
+    "bytes": 167516
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig23_random_forest_importance.pdf",
+    "destination": "alternate_results/figures/Fig23_random_forest_importance.pdf",
+    "sha256": "F5BE7274966E4DEB76700C9DBD76D55044F65E024520AC1C25D8BE4174499234",
+    "bytes": 27264
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig23_random_forest_importance.png",
+    "destination": "alternate_results/figures/Fig23_random_forest_importance.png",
+    "sha256": "61D62B296BEB7933AFB8EC42513CC3383D8514A06BA1EE64AAF8DF1FF96568D4",
+    "bytes": 279142
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig24_xgboost_importance.pdf",
+    "destination": "alternate_results/figures/Fig24_xgboost_importance.pdf",
+    "sha256": "487DC9EA81B64E02595EAFF348E7599C9C14785E16A24FC0DFBAF287AAFB7A62",
+    "bytes": 36134
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig24_xgboost_importance.png",
+    "destination": "alternate_results/figures/Fig24_xgboost_importance.png",
+    "sha256": "C8C3782147A3203C020CC9CA351A617F80D990EF48DE0AD6C22E04BFFC041DD1",
+    "bytes": 292899
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig25_shap_summary.pdf",
+    "destination": "alternate_results/figures/Fig25_shap_summary.pdf",
+    "sha256": "2D20B6690B3D7A1741FEAD650B40EE7EC78276E4736CB7949D7B24D440921F11",
+    "bytes": 236538
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig25_shap_summary.png",
+    "destination": "alternate_results/figures/Fig25_shap_summary.png",
+    "sha256": "7D2750B4361D29EFC25F3651EFABB31A110E37751CA2EA84E68632BD539BC29B",
+    "bytes": 558790
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig26_shap_dependence_top4.pdf",
+    "destination": "alternate_results/figures/Fig26_shap_dependence_top4.pdf",
+    "sha256": "13E5AC89DA7603669EE25B00BB4123151AADB35DD2F0BA83BE96E4B49F49EAA3",
+    "bytes": 100333
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig26_shap_dependence_top4.png",
+    "destination": "alternate_results/figures/Fig26_shap_dependence_top4.png",
+    "sha256": "AB283F0FC7B0C1262585E2AF7C2627DF98327B1ED71E1E51B952D333FF8B193B",
+    "bytes": 690212
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig27_qca_causal_paths.pdf",
+    "destination": "alternate_results/figures/Fig27_qca_causal_paths.pdf",
+    "sha256": "10944BBDB748278E0D9E09ECCBD634BD2005D6D71DF907EE8E1E775F1F057EEB",
+    "bytes": 36064
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig27_qca_causal_paths.png",
+    "destination": "alternate_results/figures/Fig27_qca_causal_paths.png",
+    "sha256": "F38612F69EEC3B9EDF709E561C71151EA5154834AC12C26824EAA1BAA3281148",
+    "bytes": 527490
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig28_procurement_relation_network.pdf",
+    "destination": "alternate_results/figures/Fig28_procurement_relation_network.pdf",
+    "sha256": "FFE3AAD91CF7479AEA26F0CBFA2D92B82F5666A089179CD86ABB3D888274B864",
+    "bytes": 43263
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig28_procurement_relation_network.png",
+    "destination": "alternate_results/figures/Fig28_procurement_relation_network.png",
+    "sha256": "0559F37FB44F6446D8EAE66F355E84ECE7B42558DD5019B38C71B7319ECA2857",
+    "bytes": 500126
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig29_high_risk_supplier_buyer_network.pdf",
+    "destination": "alternate_results/figures/Fig29_high_risk_supplier_buyer_network.pdf",
+    "sha256": "49876EE6FB961142CD99C02609B7DB6B715A16C98CE2BE8C59B4A288EF10DE4D",
+    "bytes": 38465
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig29_high_risk_supplier_buyer_network.png",
+    "destination": "alternate_results/figures/Fig29_high_risk_supplier_buyer_network.png",
+    "sha256": "0EA4D2FDC32CC2C11EC00D185F92942F3F3AA4D0F1FC60A59351A0266E929917",
+    "bytes": 341366
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig30_supplier_centrality_top20.pdf",
+    "destination": "alternate_results/figures/Fig30_supplier_centrality_top20.pdf",
+    "sha256": "068BAE55C394E00A5FD80A17AF21EDBCD1B37972D553BECAE846135BD4FE6A6F",
+    "bytes": 72191
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig30_supplier_centrality_top20.png",
+    "destination": "alternate_results/figures/Fig30_supplier_centrality_top20.png",
+    "sha256": "4C35FBE8F40611EF0540A1AE207972EA42D671BE60EB68CE06C1860055B261C1",
+    "bytes": 549967
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig31_buyer_risk_rate_top20.pdf",
+    "destination": "alternate_results/figures/Fig31_buyer_risk_rate_top20.pdf",
+    "sha256": "894725D57CACE5AAED07DA9002D84B6E372F5BC998F67B3E92F8E9A18A5FF8EF",
+    "bytes": 82122
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig31_buyer_risk_rate_top20.png",
+    "destination": "alternate_results/figures/Fig31_buyer_risk_rate_top20.png",
+    "sha256": "2EA6AD109802B3314AF94BC74E033EDB46DEFE058BDE89AE2995B5B5D441B56B",
+    "bytes": 539254
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig32_risk_community_network.pdf",
+    "destination": "alternate_results/figures/Fig32_risk_community_network.pdf",
+    "sha256": "F2A774917E6CE2B5ECF7382651CA2E72BFE490EEC3742B76BBC19F8CC025F63D",
+    "bytes": 29973
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig32_risk_community_network.png",
+    "destination": "alternate_results/figures/Fig32_risk_community_network.png",
+    "sha256": "ACFA9C62D796E6773CB474374C7B1483B52C941E55CF199E9C9BEC2463341D49",
+    "bytes": 214326
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig33_main_vs_extension_risk_rate.pdf",
+    "destination": "alternate_results/figures/Fig33_main_vs_extension_risk_rate.pdf",
+    "sha256": "6BAEEE7DBA89D794BC355D81036057DF72CBCE38B05AD6F81EB2C1B3CBB69194",
+    "bytes": 39408
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig33_main_vs_extension_risk_rate.png",
+    "destination": "alternate_results/figures/Fig33_main_vs_extension_risk_rate.png",
+    "sha256": "AC1FDD9EDB59DA703407679F94F49BB01B23BB5E6E569D89E4EEFC914B4F9B93",
+    "bytes": 188392
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig34_category_risk_rate_comparison.pdf",
+    "destination": "alternate_results/figures/Fig34_category_risk_rate_comparison.pdf",
+    "sha256": "8C614A20FF4EB5B4D682FF334487503973A97B0A83168762AFFA3FFCD672AFA9",
+    "bytes": 27016
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig34_category_risk_rate_comparison.png",
+    "destination": "alternate_results/figures/Fig34_category_risk_rate_comparison.png",
+    "sha256": "E59D213CD578474BBF3498512EAE9B18858735088688A2BC29365BB66DA2D112",
+    "bytes": 195640
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig35_threshold_sensitivity.pdf",
+    "destination": "alternate_results/figures/Fig35_threshold_sensitivity.pdf",
+    "sha256": "00A3F98B56884A5AB93CB967522D36553851CB10DD6C07DDC3DDF5CD79ACB35F",
+    "bytes": 27693
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig35_threshold_sensitivity.png",
+    "destination": "alternate_results/figures/Fig35_threshold_sensitivity.png",
+    "sha256": "56BDBC2289C5BFE7153DC87DD07848514C34A61885F23B7EA1C200387332D194",
+    "bytes": 284412
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig36_extension_high_risk_service_distribution.pdf",
+    "destination": "alternate_results/figures/Fig36_extension_high_risk_service_distribution.pdf",
+    "sha256": "A11A2685127E036E210FF663827947D8D026C5494C9D50B18B6A7BCDCE19349B",
+    "bytes": 46573
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig36_extension_high_risk_service_distribution.png",
+    "destination": "alternate_results/figures/Fig36_extension_high_risk_service_distribution.png",
+    "sha256": "12595618E5E787BE3D91A6104104197593C7EB964AC7643AFAD14698CB684D6C",
+    "bytes": 240626
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig37_regulatory_closed_loop.pdf",
+    "destination": "alternate_results/figures/Fig37_regulatory_closed_loop.pdf",
+    "sha256": "AB2870C7658080F31768F7D6EA21CBAC8351E4FB6B2817A2D952A32DA16A4998",
+    "bytes": 25613
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\figures\\Fig37_regulatory_closed_loop.png",
+    "destination": "alternate_results/figures/Fig37_regulatory_closed_loop.png",
+    "sha256": "980FDA841513966A287CEB51D5256640C2BC7FFA505113AD123F806740EC6E19",
+    "bytes": 111332
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table01_data_sources.csv",
+    "destination": "alternate_results/tables/Table01_data_sources.csv",
+    "sha256": "FC4F4040F3D6879DA8978232CB65DF8B6F9C6942F469FED501BA2AC3A1BE70EA",
+    "bytes": 495
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table02_field_structure.csv",
+    "destination": "alternate_results/tables/Table02_field_structure.csv",
+    "sha256": "44766BB222510DE43F82090E9CED8573C41B3D1D96B3349B390B4D8E0A718EC1",
+    "bytes": 806
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table03_sample_split.csv",
+    "destination": "alternate_results/tables/Table03_sample_split.csv",
+    "sha256": "1040A36A654970994A863B39BE0F9FB54C5DE207E3F2055CC02E669CECB5EDA5",
+    "bytes": 296
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table04_procurement_category_distribution.csv",
+    "destination": "alternate_results/tables/Table04_procurement_category_distribution.csv",
+    "sha256": "49310FA6BC759EAF7ACA36840260DC2FEB66607927B776E39CA8210DBAD631E5",
+    "bytes": 121
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table05_low_price_indicator_definitions.csv",
+    "destination": "alternate_results/tables/Table05_low_price_indicator_definitions.csv",
+    "sha256": "81F65C770D8340D8AE36BC15B07E8373CC02EAF9DE47EF5083C582690122E2CD",
+    "bytes": 689
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table06_rule_detection_comparison.csv",
+    "destination": "alternate_results/tables/Table06_rule_detection_comparison.csv",
+    "sha256": "F7A393F473F787E0BDDE50BA34A7F242DAB5C4A22AFBDC15252A608BBB868970",
+    "bytes": 367
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table07_service_category_risk_rate.csv",
+    "destination": "alternate_results/tables/Table07_service_category_risk_rate.csv",
+    "sha256": "4F32FE9CBFA4E78910157AD39BBAD76AE46172D1D3D64908BA77843D5B7AC059",
+    "bytes": 1279
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table07b_procurement_method_risk_rate.csv",
+    "destination": "alternate_results/tables/Table07b_procurement_method_risk_rate.csv",
+    "sha256": "B2E4F554157D3BE7111CB042BC1ADFF4003F5AE45A545CA3694F15F14CADA74D",
+    "bytes": 420
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table07c_province_risk_rate.csv",
+    "destination": "alternate_results/tables/Table07c_province_risk_rate.csv",
+    "sha256": "6D2BAD3FAD81CB29B38E3B9101B3E73F7A17CDF021EBAF8703B422A11E2A557F",
+    "bytes": 1104
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table08_text_preprocessing_rules.csv",
+    "destination": "alternate_results/tables/Table08_text_preprocessing_rules.csv",
+    "sha256": "C89CA16F7C3DC7D74CE3A3A352889B34F3AA2C39DC28C55A731063CF202D4FEB",
+    "bytes": 524
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table09_lda_topic_interpretation.csv",
+    "destination": "alternate_results/tables/Table09_lda_topic_interpretation.csv",
+    "sha256": "8F15D576D3662A962F3C8A1F026E1A6EC3DBFF46C3935D4FA0CE0B8AB97C74A4",
+    "bytes": 1108
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table10_supplier_profile_fields.csv",
+    "destination": "alternate_results/tables/Table10_supplier_profile_fields.csv",
+    "sha256": "D0202722DCA8C30337F827E2AAB3C24D0436AC3F05AF72D7D9FA864DCF17D2FA",
+    "bytes": 551
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table10b_supplier_profile_summary.csv",
+    "destination": "alternate_results/tables/Table10b_supplier_profile_summary.csv",
+    "sha256": "9F691590F30A4A1E9FF032D2FF4BDDD20A8CDAE2F6908C30A45314EE06E0BDB6",
+    "bytes": 417120
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table10c_overall_keywords.csv",
+    "destination": "alternate_results/tables/Table10c_overall_keywords.csv",
+    "sha256": "36B7F20E6D4649D4FB4EA5633C4413E7DC0B6A90FE9E6EAEB0E4226E107DA257",
+    "bytes": 1171
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table10d_risk_vs_normal_keywords.csv",
+    "destination": "alternate_results/tables/Table10d_risk_vs_normal_keywords.csv",
+    "sha256": "B74CC3F145E833651BD4891570CB1204F98452058D61B95DB3DE9BF378558772",
+    "bytes": 1974
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table11_anomaly_model_parameters.csv",
+    "destination": "alternate_results/tables/Table11_anomaly_model_parameters.csv",
+    "sha256": "BCE4F2D23A7F268BE51AFD11E0D8B0A1C7A585A19E7A94C3605A2FEAD995B0B6",
+    "bytes": 468
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table12_anomaly_model_results.csv",
+    "destination": "alternate_results/tables/Table12_anomaly_model_results.csv",
+    "sha256": "956017CB6743DF04BB1B7452BB341236198AF2977C27E9287930EFB6A1A8C0EE",
+    "bytes": 182
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table13_high_risk_descriptive_statistics.csv",
+    "destination": "alternate_results/tables/Table13_high_risk_descriptive_statistics.csv",
+    "sha256": "31D60995BC455BECBE662B4281CA9038C3D1DFFA1FEE36DB1940EC92065B63F8",
+    "bytes": 1997
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table14_logistic_regression_results.csv",
+    "destination": "alternate_results/tables/Table14_logistic_regression_results.csv",
+    "sha256": "0AFAF5A9CAA0D3AD26F7DA160393078E9E149591BE5AE0F9E08FB6BF5B583C29",
+    "bytes": 1049
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table15_supervised_model_evaluation.csv",
+    "destination": "alternate_results/tables/Table15_supervised_model_evaluation.csv",
+    "sha256": "B96231F24BDB9F2F0C755C9EF74AD5A0A15B3F0DBE20C2A12565CE00D91421AB",
+    "bytes": 346
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table16_shap_importance.csv",
+    "destination": "alternate_results/tables/Table16_shap_importance.csv",
+    "sha256": "D1131C658CA0A94ADE9C64CCF5F3EBDFDB36B19642A01AEC09D82B250A03E0E7",
+    "bytes": 2145
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table16b_random_forest_importance.csv",
+    "destination": "alternate_results/tables/Table16b_random_forest_importance.csv",
+    "sha256": "ABDF38B8EB978ECBA64055C92807023A2E7CC03DA3A251DA975116C601FFD990",
+    "bytes": 3135
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table16c_xgboost_importance.csv",
+    "destination": "alternate_results/tables/Table16c_xgboost_importance.csv",
+    "sha256": "E1529EF6B042B157AF133D065D3E294642BBEA80B884B990CBB7060A757CEFA5",
+    "bytes": 2174
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table17_qca_causal_paths.csv",
+    "destination": "alternate_results/tables/Table17_qca_causal_paths.csv",
+    "sha256": "80BAE90ED8F209632A122460EA729228BF79CFEAF2A10654221D4C37AF95AF81",
+    "bytes": 1251
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table18_network_node_edge_definitions.csv",
+    "destination": "alternate_results/tables/Table18_network_node_edge_definitions.csv",
+    "sha256": "50B6F2CFC28C86830DC3C290348037F6247A5AFB969883922B95ECE97C695DEF",
+    "bytes": 538
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table19_supplier_centrality_ranking.csv",
+    "destination": "alternate_results/tables/Table19_supplier_centrality_ranking.csv",
+    "sha256": "0A3F43CC9F4D79A29E149EC5CA4EA2B233E3BD3430AAD66E10B5184594EC5146",
+    "bytes": 8956
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table20_buyer_risk_ranking.csv",
+    "destination": "alternate_results/tables/Table20_buyer_risk_ranking.csv",
+    "sha256": "B64CF84E1938D5978DE00EBF89B17EBC68671EE7AE64D590AB1EECF1825CC35D",
+    "bytes": 10655
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table21_high_risk_community_features.csv",
+    "destination": "alternate_results/tables/Table21_high_risk_community_features.csv",
+    "sha256": "76C1C986618A8B9133A1FD4871B1DF927663BC7BBDBA12EAD3A528F7D8000975",
+    "bytes": 444391
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table22_robustness_results.csv",
+    "destination": "alternate_results/tables/Table22_robustness_results.csv",
+    "sha256": "AE81B0CCD4512B92AB95C02C1C3F2250153054C78618E08A0E63FC80444B5954",
+    "bytes": 294
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table23_procurement_category_risk_comparison.csv",
+    "destination": "alternate_results/tables/Table23_procurement_category_risk_comparison.csv",
+    "sha256": "72A6EDAB650027887DA30548A4784F8B7F56311B1795490FAB9124F954CDDDB3",
+    "bytes": 271
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table24_threshold_sensitivity.csv",
+    "destination": "alternate_results/tables/Table24_threshold_sensitivity.csv",
+    "sha256": "7E70209C1919820242B84984B3DA8549AD15057A08BFE66F436AFD97CC8F209E",
+    "bytes": 408
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模代码\\输出结果\\tables\\Table25_policy_recommendation_evidence.csv",
+    "destination": "alternate_results/tables/Table25_policy_recommendation_evidence.csv",
+    "sha256": "E091AFCCA8A3C88B28205703724A85A99B95587EDB5C6C637109AB68D4431ABF",
+    "bytes": 634
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\extension_2025q1_sample.csv",
+    "destination": "data/extension_2025q1_sample.csv",
+    "sha256": "4B937CEF511D752443AE672F9DEA4B4185228B6D93B44CA1D1E45D9A30F71A6E",
+    "bytes": 7255504
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\full_sample.csv",
+    "destination": "data/full_sample.csv",
+    "sha256": "D1A341489742FA8866C835B179E49E3AF195F698A57197ED88B2A212394B532F",
+    "bytes": 26962227
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\price_valid_sample.csv",
+    "destination": "data/price_valid_sample.csv",
+    "sha256": "AC8FA224DEF93F9E3E9FA0818C8FFD7A19789E0F5D0DCF38C0A8B1BEE61CCFED",
+    "bytes": 25376991
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\service_main_sample.csv",
+    "destination": "data/service_main_sample.csv",
+    "sha256": "A99D46B089F8564E6A87471846610BD11774F6C79679B18EB475E91469613FB0",
+    "bytes": 21982748
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\政府采购物业样本字段_1500条.csv",
+    "destination": "data/政府采购物业样本字段_1500条.csv",
+    "sha256": "13B2961200618D6FC1EE70B00A055982C070557B287470FCF248A8A876E49619",
+    "bytes": 7641937
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\政府采购项目风险分析主表.csv",
+    "destination": "data/政府采购项目风险分析主表.csv",
+    "sha256": "401B635BDF5B11E0488A1D9EAA4AE6B388FDE6ECB65984387723ECDE41ECE9F1",
+    "bytes": 26064889
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\ccgp_info_service_awards(1).csv",
+    "destination": "data/ccgp_info_service_awards(1).csv",
+    "sha256": "16CF2B11DEC939825BC151083AE938DCE005FF46FA787751DBC20AF5830E7F9D",
+    "bytes": 1568010
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\ccgp_merged_supplier_credit_merged.csv",
+    "destination": "data/ccgp_merged_supplier_credit_merged.csv",
+    "sha256": "7F3CE9592BC17085758E935C6FBF6B9B40F55528684B91BA6F5F0DA426E89385",
+    "bytes": 17469683
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\ccgp_merged_supplier_credit_merged.xlsx",
+    "destination": "data/ccgp_merged_supplier_credit_merged.xlsx",
+    "sha256": "51319E903A8F698BEB09F6E5251D5D6A05DA0965444AB262E3F391142935E446",
+    "bytes": 6425186
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\ccgp_merged_supplier_credit.xlsx",
+    "destination": "data/ccgp_merged_supplier_credit.xlsx",
+    "sha256": "01B2018374896A209842324DC92BFF21EC3EB2575083B9690099C570CD3D810F",
+    "bytes": 5299448
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\government_contract_q1_2025_sample_4500_服务类型.csv",
+    "destination": "data/government_contract_q1_2025_sample_4500_服务类型.csv",
+    "sha256": "4A3FDE23B63DC8D6233387D32991D95F45A2F0071A9FAAB2100AA12C2403C72F",
+    "bytes": 6176539
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\provincial_indicators_2024.csv",
+    "destination": "data/provincial_indicators_2024.csv",
+    "sha256": "676825736D8E6616306313D9FD6B70CDC09EEB68B6458A9229FB10BE50A7FC3F",
+    "bytes": 2966
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模原数据\\provincial_indicators_2025_partial.csv",
+    "destination": "data/provincial_indicators_2025_partial.csv",
+    "sha256": "48140990F3CF562D76F8D40B60E39EA2355A94C5204BC5095221381FC4656D78",
+    "bytes": 2202
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\论文成稿\\政府采购异常低价风险识别与监管研究_学术润色版.docx",
+    "destination": "papers/政府采购异常低价风险识别与监管研究_学术润色版.docx",
+    "sha256": "10DFC4FC1CE232AEF5B18662079E7EB4417ACAA75A3AA647DA25FA347F95B81E",
+    "bytes": 26668297
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\论文成稿\\政府采购异常低价风险识别与监管研究_学术润色版_word_export.pdf",
+    "destination": "papers/政府采购异常低价风险识别与监管研究_学术润色版_word_export.pdf",
+    "sha256": "AC544548FA7D3EFE388B74238326CF00E7EED97EA59A566F9E78A6FB2FAA4674",
+    "bytes": 3836316
+  },
+  {
+    "source": "C:\\Users\\22672\\Desktop\\统计建模比赛\\统计建模代码\\论文成稿\\政府采购异常低价风险识别与监管研究_最终版.docx",
+    "destination": "papers/政府采购异常低价风险识别与监管研究_最终版.docx",
+    "sha256": "DAC075545E3577CDA5477C6EB236845EAB69E9E81C25CED8F8562A82F5EF34AC",
+    "bytes": 11493489
+  }
+]

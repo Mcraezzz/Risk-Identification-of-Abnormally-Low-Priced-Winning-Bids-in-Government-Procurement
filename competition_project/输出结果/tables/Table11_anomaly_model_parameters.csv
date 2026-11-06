@@ -1,0 +1,6 @@
+﻿模型,参数设置,作用
+Isolation Forest,n_estimators=400; contamination=0.094; random_state=42,全局孤立异常识别
+LOF,n_neighbors=35; contamination=0.094,局部密度异常识别
+One-Class SVM,nu=0.094; kernel=RBF; gamma=scale,非线性边界稳健性识别
+集成风险分数,0.30×IForest + 0.25×LOF + 0.20×OCSVM + 0.25×规则得分,综合多源异常信号
+最终高风险阈值,ensemble_risk_score ≥ 第90百分位,主模型高风险标签

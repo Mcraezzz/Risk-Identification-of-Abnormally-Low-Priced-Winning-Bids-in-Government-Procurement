@@ -1,0 +1,7 @@
+﻿字段,构造口径,解释
+supplier_win_count,同一供应商在服务类主样本中出现次数,供应商活跃度
+supplier_low_price_count,供应商关联规则高风险项目数量,低价中标历史
+supplier_avg_saving_rate,供应商项目平均节约率,价格行为画像
+supplier_cross_province_rate,跨省中标项目占比,跨区域交易画像
+supplier_category_count,涉及统一服务类别数量,经营类别广度
+supplier_risk_score,低价率、低价次数、中标次数、跨省比例加权,供应商综合风险画像分

@@ -1,0 +1,15 @@
+jieba
+matplotlib
+networkx
+numpy
+pandas
+seaborn
+shap
+statsmodels
+scipy
+scikit-learn
+wordcloud
+xgboost
+python-louvain
+openpyxl
+python-docx
